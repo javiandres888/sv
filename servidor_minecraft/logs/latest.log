@@ -1,0 +1,73 @@
+[22:50:35] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[22:50:35] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[22:50:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/sv/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:50:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:50:42] [main/INFO]: Loaded 7 recipes
+[22:50:42] [main/INFO]: Loaded 1271 advancements
+[22:50:43] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:50:43] [Server thread/INFO]: Loading properties
+[22:50:43] [Server thread/INFO]: Default game type: SURVIVAL
+[22:50:43] [Server thread/INFO]: Generating keypair
+[22:50:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:50:43] [Server thread/INFO]: Using epoll channel type
+[22:50:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:50:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:50:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:50:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:50:43] [Server thread/INFO]: Preparing level "world"
+[22:50:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:50:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:50:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:50:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:50:51] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[22:50:52] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[22:50:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[22:50:53] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[22:50:53] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[22:50:54] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[22:50:54] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[22:50:55] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[22:50:55] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[22:50:56] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[22:50:56] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[22:50:57] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[22:50:57] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[22:50:58] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[22:50:58] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[22:50:59] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[22:50:59] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[22:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[22:51:00] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[22:51:01] [Worker-Main-3/INFO]: Preparing spawn area: 33%
+[22:51:01] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[22:51:02] [Worker-Main-1/INFO]: Preparing spawn area: 39%
+[22:51:02] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[22:51:03] [Worker-Main-3/INFO]: Preparing spawn area: 44%
+[22:51:03] [Worker-Main-2/INFO]: Preparing spawn area: 46%
+[22:51:04] [Worker-Main-3/INFO]: Preparing spawn area: 49%
+[22:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 52%
+[22:51:05] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[22:51:05] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[22:51:06] [Worker-Main-2/INFO]: Preparing spawn area: 60%
+[22:51:06] [Worker-Main-1/INFO]: Preparing spawn area: 64%
+[22:51:07] [Worker-Main-3/INFO]: Preparing spawn area: 67%
+[22:51:07] [Worker-Main-3/INFO]: Preparing spawn area: 70%
+[22:51:08] [Worker-Main-3/INFO]: Preparing spawn area: 72%
+[22:51:08] [Worker-Main-2/INFO]: Preparing spawn area: 76%
+[22:51:09] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[22:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[22:51:10] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[22:51:10] [Worker-Main-1/INFO]: Preparing spawn area: 88%
+[22:51:11] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[22:51:11] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[22:51:12] [Server thread/INFO]: Time elapsed: 23005 ms
+[22:51:12] [Server thread/INFO]: Done (28.977s)! For help, type "help"
+[22:52:04] [Server thread/INFO]: Dresan[/[0:0:0:0:0:0:0:1%0]:53370] logged in with entity id 135 at (-210.5, 65.0, -5.5)
+[22:52:04] [Server thread/INFO]: Dresan joined the game
+[22:52:16] [Server thread/INFO]: [Not Secure] <Dresan> asd
