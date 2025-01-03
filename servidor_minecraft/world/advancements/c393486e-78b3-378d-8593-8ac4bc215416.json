@@ -615,7 +615,8 @@
       "minecraft:forest": "2025-01-03 00:59:19 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:12 +0000",
       "minecraft:ocean": "2025-01-03 22:40:07 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:46 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:46 +0000",
+      "minecraft:plains": "2025-01-03 23:31:25 +0000"
     },
     "done": false
   },
@@ -633,6 +634,7 @@
       "autumnal_maple_forest": "2025-01-03 23:08:41 +0000",
       "muddy_river": "2025-01-03 22:54:07 +0000",
       "willow_forest": "2025-01-03 02:11:37 +0000",
+      "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
       "maple_forest": "2025-01-03 23:07:50 +0000",
@@ -656,6 +658,7 @@
       "autumnal_maple_forest": "2025-01-03 23:08:41 +0000",
       "muddy_river": "2025-01-03 22:54:07 +0000",
       "willow_forest": "2025-01-03 02:11:37 +0000",
+      "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
       "maple_forest": "2025-01-03 23:07:50 +0000",
@@ -13969,6 +13972,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-03 23:30:04 +0000"
+    },
+    "done": true
+  },
   "beachparty:table": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000",
@@ -14292,6 +14301,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-01-03 23:30:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-01-03 22:37:19 +0000"
@@ -14331,6 +14346,12 @@
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-03 23:31:08 +0000"
     },
     "done": true
   },
@@ -14405,6 +14426,12 @@
   "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-03 23:30:04 +0000"
     },
     "done": true
   },
@@ -14627,6 +14654,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-03 23:30:04 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:58:54 +0000"
@@ -14820,6 +14853,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2025-01-03 23:24:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-01-03 22:35:30 +0000"
@@ -14890,6 +14929,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-03 23:05:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-03 23:30:04 +0000"
     },
     "done": true
   },

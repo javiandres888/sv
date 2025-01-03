@@ -3202,8 +3202,10 @@
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
+      "towering_cliffs": "2025-01-03 23:30:11 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
       "temperate_grove": "2025-01-03 01:13:08 +0000",
+      "cold_river": "2025-01-03 23:27:16 +0000",
       "prairie": "2025-01-03 02:07:06 +0000",
       "grassland": "2025-01-03 07:11:17 +0000",
       "gravel_beach": "2025-01-03 22:47:41 +0000",
@@ -3225,8 +3227,10 @@
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
+      "towering_cliffs": "2025-01-03 23:30:11 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
       "temperate_grove": "2025-01-03 01:13:08 +0000",
+      "cold_river": "2025-01-03 23:27:16 +0000",
       "prairie": "2025-01-03 02:07:06 +0000",
       "grassland": "2025-01-03 07:11:17 +0000",
       "gravel_beach": "2025-01-03 22:47:41 +0000",
@@ -12963,9 +12967,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-01-03 22:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -12985,6 +13001,12 @@
   "techreborn:recipes/centrifuge/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-01-03 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13009,6 +13031,12 @@
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-01-03 22:52:33 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13040,6 +13068,24 @@
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2025-01-03 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13153,6 +13199,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-01-03 22:50:29 +0000"
@@ -13178,6 +13236,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/taglock": {
     "criteria": {
       "has_item": "2025-01-03 22:52:33 +0000"
@@ -13190,6 +13254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-03 23:02:30 +0000"
@@ -13199,6 +13269,12 @@
   "bewitchment:recipes/redstone/trapped_elder_chest": {
     "criteria": {
       "has_item": "2025-01-03 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13224,6 +13300,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-01-03 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13282,6 +13364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-03 23:22:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
     "criteria": {
       "has_glass_bottle": "2025-01-03 22:52:33 +0000"
@@ -13306,9 +13394,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-01-03 22:59:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13321,6 +13427,12 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-01-03 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13352,6 +13464,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-01-03 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13422,6 +13540,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/redstone/trapped_juniper_chest": {
     "criteria": {
       "has_item": "2025-01-03 22:49:59 +0000"
@@ -13435,9 +13559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/pumpkin_bars": {
     "criteria": {
       "has_pumpkin": "2025-01-03 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13450,6 +13586,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-03 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13474,6 +13616,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-03 22:59:31 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13580,6 +13728,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-01-03 23:02:30 +0000"
@@ -13604,15 +13758,39 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-01-03 23:26:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
       "has_apple": "2025-01-03 22:59:25 +0000"
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-01-03 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
@@ -13635,9 +13813,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2025-01-03 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:22:25 +0000"
     },
     "done": true
   },
