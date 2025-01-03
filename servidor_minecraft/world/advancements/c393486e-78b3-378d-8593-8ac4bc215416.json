@@ -7745,7 +7745,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "toast": "2025-01-03 02:25:44 +0000"
+      "toast": "2025-01-03 02:25:44 +0000",
+      "calamari": "2025-01-03 07:04:22 +0000"
     },
     "done": false
   },
@@ -12953,6 +12954,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-01-03 07:06:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
@@ -12971,9 +12984,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -12995,9 +13020,27 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13007,9 +13050,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-01-03 06:55:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 07:04:22 +0000"
     },
     "done": true
   },
@@ -13019,15 +13074,45 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/fire_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/have_64_cells": {
     "criteria": {
       "requirement": "2025-01-03 06:49:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flame_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/lure_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13067,9 +13152,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/swift_sneak_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13082,6 +13191,36 @@
   "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/knockback_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fortune_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13103,9 +13242,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/aqua_affinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_aspect_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 07:04:22 +0000"
     },
     "done": true
   },
@@ -13121,9 +13278,51 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/respiration_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/soul_speed_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/looting_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/depth_strider_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/unbreaking_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13133,9 +13332,69 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/loyalty_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_book": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/power_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smite_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13151,9 +13410,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-03 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-01-03 06:59:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/channeling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13169,6 +13470,12 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
@@ -13181,9 +13488,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/frost_walker_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13193,9 +13524,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/punch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13211,9 +13554,45 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/efficiency_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blast_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13229,9 +13608,51 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/silk_touch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/piercing_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/impaling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
     },
     "done": true
   },
@@ -13241,9 +13662,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/riptide_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 07:04:22 +0000"
     },
     "done": true
   },
@@ -13259,9 +13704,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sharpness_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-01-03 06:59:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-01-03 06:55:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/mending_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-03 07:04:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/feather_falling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13283,6 +13764,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/projectile_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/sand_from_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
@@ -13292,6 +13785,24 @@
   "techreborn:recipes/assembling_machine/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweeping_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-01-03 06:59:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bane_of_arthropods_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
@@ -13307,9 +13818,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-03 06:59:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thorns_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
     },
     "done": true
   },
