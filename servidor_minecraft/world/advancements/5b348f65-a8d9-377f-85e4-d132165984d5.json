@@ -3182,7 +3182,8 @@
       "willow_forest": "2025-01-03 06:29:11 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "temperate_grove": "2025-01-03 01:13:08 +0000",
-      "prairie": "2025-01-03 02:07:06 +0000"
+      "prairie": "2025-01-03 02:07:06 +0000",
+      "grassland": "2025-01-03 07:11:17 +0000"
     },
     "done": false
   },
@@ -3192,7 +3193,8 @@
       "willow_forest": "2025-01-03 06:29:11 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "temperate_grove": "2025-01-03 01:13:08 +0000",
-      "prairie": "2025-01-03 02:07:06 +0000"
+      "prairie": "2025-01-03 02:07:06 +0000",
+      "grassland": "2025-01-03 07:11:17 +0000"
     },
     "done": false
   },
@@ -5381,6 +5383,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-01-03 07:12:18 +0000",
       "wheat": "2025-01-03 01:54:38 +0000"
     },
     "done": false
@@ -11382,6 +11385,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:53:27 +0000"
@@ -11397,6 +11406,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-01-03 07:07:25 +0000"
     },
     "done": true
   },
@@ -11451,6 +11466,12 @@
   "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
     "criteria": {
       "has_nickel_ingot": "2025-01-03 06:58:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
     },
     "done": true
   },
@@ -11514,6 +11535,13 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000",
+      "has_the_recipe": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-03 07:01:44 +0000"
@@ -11542,6 +11570,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
     },
     "done": true
   },
@@ -11587,6 +11621,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 07:11:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
     "criteria": {
       "has_ruby_gem": "2025-01-03 06:58:29 +0000"
@@ -11611,6 +11651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-03 07:11:17 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
     "criteria": {
       "has_item": "2025-01-03 06:58:29 +0000"
@@ -11629,6 +11675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 07:11:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/tungsten_plate": {
     "criteria": {
       "has_tag_c_tungsten_ingots": "2025-01-03 06:44:19 +0000"
@@ -11638,6 +11690,12 @@
   "simplyswords:stormbringer": {
     "criteria": {
       "requirement": "2025-01-03 06:27:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
     },
     "done": true
   },
@@ -11761,6 +11819,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-03 07:01:12 +0000"
@@ -11773,9 +11837,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-01-03 07:07:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-01-03 06:58:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 07:11:17 +0000"
     },
     "done": true
   },
@@ -11953,6 +12029,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/combat/athame": {
     "criteria": {
       "has_item": "2025-01-03 06:58:30 +0000"
@@ -11974,6 +12056,12 @@
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 07:11:17 +0000"
     },
     "done": true
   },
@@ -12043,6 +12131,12 @@
     },
     "done": true
   },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-01-03 07:14:04 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_beam": {
     "criteria": {
       "has_item": "2025-01-03 06:58:30 +0000"
@@ -12052,6 +12146,12 @@
   "techreborn:recipes/compressor/silver_plate": {
     "criteria": {
       "has_tag_c_silver_ingots": "2025-01-03 06:58:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 07:11:17 +0000"
     },
     "done": true
   },
@@ -12271,6 +12371,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-01-03 06:58:29 +0000"
@@ -12280,6 +12386,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2025-01-03 06:27:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
     },
     "done": true
   },
@@ -12307,6 +12419,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 07:11:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-03 07:01:12 +0000"
@@ -12331,6 +12449,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:53:27 +0000"
@@ -12340,6 +12464,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-01-03 07:01:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
     },
     "done": true
   },
@@ -12493,6 +12623,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
     "criteria": {
       "has_diamond_sword": "2025-01-03 06:44:44 +0000"
@@ -12511,6 +12647,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-03 07:01:12 +0000"
@@ -12520,6 +12662,18 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-01-03 07:11:20 +0000"
     },
     "done": true
   },

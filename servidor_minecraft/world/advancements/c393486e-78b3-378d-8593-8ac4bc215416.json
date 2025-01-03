@@ -3407,6 +3407,7 @@
       "cooked_mutton": "2025-01-03 05:54:29 +0000",
       "cooked_beef": "2025-01-03 02:29:31 +0000",
       "apple": "2025-01-03 03:57:43 +0000",
+      "potato": "2025-01-03 07:13:36 +0000",
       "bread": "2025-01-03 01:23:17 +0000",
       "golden_apple": "2025-01-03 05:08:18 +0000",
       "rotten_flesh": "2025-01-03 01:30:44 +0000",
@@ -3439,6 +3440,7 @@
       "minecraft:creeper": "2025-01-03 02:46:16 +0000",
       "minecraft:slime": "2025-01-03 02:33:34 +0000",
       "minecraft:witch": "2025-01-03 03:18:00 +0000",
+      "minecraft:cave_spider": "2025-01-03 07:12:48 +0000",
       "minecraft:silverfish": "2025-01-03 02:47:44 +0000",
       "minecraft:zombie": "2025-01-03 01:23:38 +0000",
       "minecraft:zombie_villager": "2025-01-03 02:36:41 +0000"
@@ -13140,6 +13142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 07:15:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-03 06:52:22 +0000"
@@ -13365,6 +13373,12 @@
   "techreborn:recipes/extractor/paper_from_book": {
     "criteria": {
       "has_book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 07:15:49 +0000"
     },
     "done": true
   },
@@ -13614,6 +13628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 07:15:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-01-03 07:06:13 +0000"
@@ -13800,6 +13820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 07:15:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/bane_of_arthropods_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
@@ -13833,6 +13859,12 @@
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-03 07:06:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_pedestal": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-03 07:15:49 +0000"
     },
     "done": true
   },
