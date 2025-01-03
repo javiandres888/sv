@@ -2325,3 +2325,29 @@ BCLib - Nether BiomeSource (1a6296b)
 [23:04:32] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [23:05:11] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove]] from pos class_2338{x=2229, y=70, z=1547}
 [23:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[23:07:53] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos class_2338{x=2203, y=71, z=1355}
+[23:07:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2203, y=71, z=1354} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[23:07:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=2203, y=71, z=1354}
+[23:07:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2203, y=70, z=1354} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[23:07:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=2203, y=70, z=1354}
+[23:07:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2203, y=71, z=1355} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[23:07:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=2203, y=71, z=1355}
+[23:08:40] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=2311, y=255, z=1129}
+[23:08:40] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=2311, y=255, z=1129}
+[23:08:40] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=2291, y=255, z=1129}
+[23:08:40] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=2291, y=255, z=1129}
+[23:08:59] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23:08:59] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23:08:59] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23:08:59] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23:08:59] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23:08:59] [Worker-Main-2/WARN]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[23:09:10] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23:10:15] [Server thread/INFO]: Villager class_1646['Earnestine'/28314, l='ServerLevel[world]', x=2324.45, y=72.00, z=1202.98] died, message: 'Earnestine hit the ground too hard'
+[23:10:15] [Server thread/INFO]: Named entity class_1646['Earnestine'/28314, l='ServerLevel[world]', x=2324.45, y=72.00, z=1202.98] died: Earnestine fell from a high place
+[23:10:52] [Server thread/INFO]: kingsKAP fell from a high place
+[23:10:54] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[23:10:59] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 2291, 89, 1195, minecraft:overworld
+[23:15:06] [Server thread/INFO]: Villager class_1646['Van'/29129, l='ServerLevel[world]', x=2337.31, y=254.46, z=1097.68] died, message: 'Van tried to swim in lava'
+[23:15:06] [Server thread/INFO]: Named entity class_1646['Van'/29129, l='ServerLevel[world]', x=2337.31, y=254.46, z=1097.68] died: Van tried to swim in lava
+[23:15:48] [Server thread/INFO]: Dresan has made the advancement [Novice Spellcaster]

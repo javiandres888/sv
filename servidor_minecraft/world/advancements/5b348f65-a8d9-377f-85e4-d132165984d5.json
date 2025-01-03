@@ -252,8 +252,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-03 22:51:13 +0000",
+      "minecraft:taiga": "2025-01-03 23:07:49 +0000",
       "minecraft:deep_ocean": "2025-01-03 22:46:18 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
+      "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
       "minecraft:river": "2025-01-03 01:14:00 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:57 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:25 +0000",
@@ -628,9 +630,11 @@
     "criteria": {
       "cooked_mutton": "2025-01-03 02:54:04 +0000",
       "cooked_beef": "2025-01-03 22:42:56 +0000",
+      "apple": "2025-01-03 23:04:08 +0000",
       "bread": "2025-01-03 01:07:15 +0000",
       "rotten_flesh": "2025-01-03 01:23:29 +0000",
-      "cooked_chicken": "2025-01-03 01:51:21 +0000"
+      "cooked_chicken": "2025-01-03 01:51:21 +0000",
+      "mushroom_stew": "2025-01-03 23:02:30 +0000"
     },
     "done": false
   },
@@ -658,6 +662,7 @@
       "minecraft:spider": "2025-01-03 01:07:26 +0000",
       "minecraft:creeper": "2025-01-03 03:07:13 +0000",
       "minecraft:slime": "2025-01-03 02:32:47 +0000",
+      "minecraft:husk": "2025-01-03 23:02:52 +0000",
       "minecraft:zombie": "2025-01-03 01:10:10 +0000"
     },
     "done": false
@@ -3186,12 +3191,15 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
       "pine_taiga": "2025-01-03 22:52:27 +0000",
+      "autumnal_maple_forest": "2025-01-03 23:08:44 +0000",
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
+      "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
@@ -3206,12 +3214,15 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
       "pine_taiga": "2025-01-03 22:52:27 +0000",
+      "autumnal_maple_forest": "2025-01-03 23:08:44 +0000",
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
+      "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
@@ -13050,6 +13061,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:02:30 +0000"
+    },
+    "done": true
+  },
   "beachparty:tiki_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
@@ -13164,6 +13181,12 @@
   "beachparty:palm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:02:30 +0000"
     },
     "done": true
   },
@@ -13307,6 +13330,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-03 23:02:30 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000",
@@ -13372,6 +13401,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
     "criteria": {
       "has_diamond_leggings": "2025-01-03 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:02:30 +0000"
     },
     "done": true
   },
@@ -13478,6 +13513,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-01-03 23:10:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-01-03 22:44:14 +0000"
@@ -13509,6 +13550,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-01-03 23:02:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:59:31 +0000"
@@ -13521,6 +13568,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:02:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-01-03 22:43:21 +0000"
@@ -13530,6 +13583,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:59:31 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:02:30 +0000"
     },
     "done": true
   },
@@ -13603,6 +13662,12 @@
   "beachparty:beachpartytable": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-01-03 23:10:18 +0000"
     },
     "done": true
   },
