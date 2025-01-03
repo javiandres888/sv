@@ -639,6 +639,7 @@
       "magnolia_highlands": "2025-01-03 02:16:12 +0000",
       "boreal_forest": "2025-01-03 22:47:32 +0000",
       "temperate_grove": "2025-01-03 01:16:59 +0000",
+      "cold_river": "2025-01-03 23:20:11 +0000",
       "grassland": "2025-01-03 01:45:08 +0000",
       "prairie": "2025-01-03 01:40:01 +0000",
       "gravel_beach": "2025-01-03 22:47:35 +0000",
@@ -661,6 +662,7 @@
       "magnolia_highlands": "2025-01-03 02:16:12 +0000",
       "boreal_forest": "2025-01-03 22:47:32 +0000",
       "temperate_grove": "2025-01-03 01:16:59 +0000",
+      "cold_river": "2025-01-03 23:20:11 +0000",
       "grassland": "2025-01-03 01:45:08 +0000",
       "prairie": "2025-01-03 01:40:01 +0000",
       "gravel_beach": "2025-01-03 22:47:35 +0000",
@@ -13986,9 +13988,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-01-03 23:16:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 23:13:38 +0000"
     },
     "done": true
   },
@@ -14059,6 +14073,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-01-03 23:16:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
@@ -14068,6 +14088,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 23:13:38 +0000"
     },
     "done": true
   },
@@ -14095,6 +14121,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:18:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
@@ -14104,6 +14136,12 @@
   "beachparty:tiki_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-03 23:16:00 +0000"
     },
     "done": true
   },
@@ -14199,6 +14237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 23:13:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
     "criteria": {
       "has_golden_helmet": "2025-01-03 22:44:31 +0000"
@@ -14208,6 +14252,12 @@
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-01-03 22:35:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-03 23:16:00 +0000"
     },
     "done": true
   },
@@ -14236,6 +14286,12 @@
     },
     "done": true
   },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-01-03 23:18:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-01-03 22:37:19 +0000"
@@ -14257,6 +14313,18 @@
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:18:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 23:16:00 +0000"
     },
     "done": true
   },
@@ -14294,6 +14362,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-01-03 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 23:13:38 +0000"
     },
     "done": true
   },
@@ -14358,6 +14432,12 @@
     },
     "done": true
   },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-01-03 23:15:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
@@ -14373,6 +14453,12 @@
   "bewitchment:recipes/tools/vampiric_poppet": {
     "criteria": {
       "has_item": "2025-01-03 22:49:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block_uncrafting": {
+    "criteria": {
+      "has_flax_block": "2025-01-03 23:19:24 +0000"
     },
     "done": true
   },
@@ -14489,6 +14575,12 @@
   "bewitchment:recipes/tools/fatigue_poppet": {
     "criteria": {
       "has_item": "2025-01-03 22:49:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:18:06 +0000"
     },
     "done": true
   },
@@ -14650,6 +14742,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-01-03 23:18:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
@@ -14680,6 +14778,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:18:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-01-03 23:05:55 +0000"
@@ -14701,6 +14805,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 23:18:06 +0000"
     },
     "done": true
   },
@@ -14732,6 +14842,12 @@
   "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-01-03 23:13:38 +0000"
     },
     "done": true
   },
@@ -14786,6 +14902,12 @@
   "beachparty:beachpartytable": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-03 23:16:00 +0000"
     },
     "done": true
   },

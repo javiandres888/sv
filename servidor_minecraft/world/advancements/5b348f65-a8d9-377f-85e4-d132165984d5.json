@@ -12919,6 +12919,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/orange_coffin": {
+    "criteria": {
+      "has_item": "2025-01-03 23:18:01 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_pressure_plate": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
@@ -13352,6 +13358,12 @@
   "beachparty:beachpartybeach_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-03 23:17:48 +0000"
     },
     "done": true
   },

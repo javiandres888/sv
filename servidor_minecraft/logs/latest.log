@@ -2351,3 +2351,14 @@ BCLib - Nether BiomeSource (1a6296b)
 [23:15:06] [Server thread/INFO]: Villager class_1646['Van'/29129, l='ServerLevel[world]', x=2337.31, y=254.46, z=1097.68] died, message: 'Van tried to swim in lava'
 [23:15:06] [Server thread/INFO]: Named entity class_1646['Van'/29129, l='ServerLevel[world]', x=2337.31, y=254.46, z=1097.68] died: Van tried to swim in lava
 [23:15:48] [Server thread/INFO]: Dresan has made the advancement [Novice Spellcaster]
+[23:17:48] [Server thread/INFO]: kingsKAP has made the advancement [Penteconter]
+[23:18:17] [Server thread/INFO]: Dresan has made the advancement [Always Watching]
+[23:19:12] [Server thread/INFO]: kingsKAP fell from a high place
+[23:19:14] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[23:20:30] [Server thread/INFO]: kingsKAP was doomed to fall by Dragon
+[23:20:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[23:23:49] [Server thread/INFO]: kingsKAP hit the ground too hard
+[23:23:51] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[23:24:43] [Server thread/INFO]: Dresan has made the advancement [Stay dead]
+[23:25:07] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 2261, 71, 1124, minecraft:overworld
+[23:26:28] [Server thread/INFO]: kingsKAP has made the advancement [Stay dead]
