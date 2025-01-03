@@ -254,15 +254,20 @@
       "minecraft:old_growth_pine_taiga": "2025-01-03 22:51:13 +0000",
       "minecraft:taiga": "2025-01-03 23:07:49 +0000",
       "minecraft:deep_ocean": "2025-01-03 22:46:18 +0000",
+      "minecraft:frozen_river": "2025-01-03 23:32:44 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
       "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
       "minecraft:river": "2025-01-03 01:14:00 +0000",
+      "minecraft:snowy_plains": "2025-01-03 23:33:58 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:57 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:25 +0000",
       "minecraft:forest": "2025-01-03 01:05:22 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:22 +0000",
+      "minecraft:ice_spikes": "2025-01-03 23:35:20 +0000",
       "minecraft:ocean": "2025-01-03 22:40:10 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:51 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:51 +0000",
+      "minecraft:snowy_beach": "2025-01-03 23:32:48 +0000",
+      "minecraft:plains": "2025-01-03 23:35:27 +0000"
     },
     "done": false
   },
@@ -3197,6 +3202,8 @@
       "autumnal_maple_forest": "2025-01-03 23:08:44 +0000",
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
+      "frozen_tundra": "2025-01-03 23:32:51 +0000",
+      "poppy_fields": "2025-01-03 23:35:45 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
       "maple_forest": "2025-01-03 23:08:02 +0000",
@@ -3222,6 +3229,8 @@
       "autumnal_maple_forest": "2025-01-03 23:08:44 +0000",
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
+      "frozen_tundra": "2025-01-03 23:32:51 +0000",
+      "poppy_fields": "2025-01-03 23:35:45 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
       "maple_forest": "2025-01-03 23:08:02 +0000",
@@ -13095,6 +13104,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-03 23:35:59 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/smoking/cooked_duck": {
     "criteria": {
       "has_duck": "2025-01-03 22:54:21 +0000"
@@ -13156,6 +13171,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-01-03 23:40:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/fel_pumpkin": {
     "criteria": {
       "has_item": "2025-01-03 22:49:34 +0000"
@@ -13184,6 +13205,12 @@
   "techreborn:recipes/industrial_electrolyzer/sand": {
     "criteria": {
       "has_sand": "2025-01-03 22:43:21 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-01-03 23:36:55 +0000"
     },
     "done": true
   },
