@@ -3442,6 +3442,7 @@
       "cooked_beef": "2025-01-03 02:29:31 +0000",
       "apple": "2025-01-03 03:57:43 +0000",
       "potato": "2025-01-03 07:13:36 +0000",
+      "mutton": "2025-01-03 23:56:18 +0000",
       "bread": "2025-01-03 01:23:17 +0000",
       "golden_apple": "2025-01-03 05:08:18 +0000",
       "rotten_flesh": "2025-01-03 01:30:44 +0000",
@@ -14464,6 +14465,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-01-03 23:52:57 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_stairs": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000"
@@ -14509,6 +14516,12 @@
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-01-03 23:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-03 23:49:04 +0000"
     },
     "done": true
   },
@@ -14695,6 +14708,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2025-01-03 23:51:12 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-01-03 22:37:19 +0000"
@@ -14864,6 +14883,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2025-01-03 23:51:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:58:54 +0000"
@@ -14910,6 +14935,12 @@
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000",
       "has_the_recipe": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-01-03 23:49:41 +0000"
     },
     "done": true
   },

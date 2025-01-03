@@ -636,10 +636,12 @@
       "cooked_mutton": "2025-01-03 02:54:04 +0000",
       "cooked_beef": "2025-01-03 22:42:56 +0000",
       "apple": "2025-01-03 23:04:08 +0000",
+      "pumpkin_pie": "2025-01-03 23:46:33 +0000",
       "bread": "2025-01-03 01:07:15 +0000",
       "rotten_flesh": "2025-01-03 01:23:29 +0000",
       "cooked_chicken": "2025-01-03 01:51:21 +0000",
-      "mushroom_stew": "2025-01-03 23:02:30 +0000"
+      "mushroom_stew": "2025-01-03 23:02:30 +0000",
+      "carrot": "2025-01-03 23:51:17 +0000"
     },
     "done": false
   },
@@ -12938,15 +12940,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_pressure_plate": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2025-01-03 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-03 23:44:06 +0000"
     },
     "done": true
   },
@@ -13004,6 +13030,12 @@
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000",
       "has_the_recipe": "2025-01-03 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 23:43:10 +0000"
     },
     "done": true
   },
@@ -13080,6 +13112,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-01-03 23:22:25 +0000"
@@ -13107,6 +13145,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-01-03 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-03 23:44:06 +0000"
     },
     "done": true
   },
@@ -13202,6 +13246,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sand": {
     "criteria": {
       "has_sand": "2025-01-03 22:43:21 +0000"
@@ -13287,9 +13337,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 23:43:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-03 23:02:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-01-03 23:43:10 +0000"
     },
     "done": true
   },
@@ -13327,6 +13389,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-01-03 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 23:43:10 +0000"
     },
     "done": true
   },
@@ -13372,6 +13440,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 23:43:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_nugget_from_shovel": {
     "criteria": {
       "has_golden_shovel": "2025-01-03 22:44:16 +0000"
@@ -13403,9 +13477,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-03 23:44:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-03 22:59:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-01-03 23:51:35 +0000"
     },
     "done": true
   },
@@ -13500,6 +13592,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartybeach_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
@@ -13534,6 +13668,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:59:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-03 23:44:06 +0000"
     },
     "done": true
   },
@@ -13761,9 +13901,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-03 23:51:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-01-03 23:02:30 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-01-03 23:49:59 +0000"
     },
     "done": true
   },
@@ -13785,6 +13937,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-03 23:44:06 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-01-03 23:26:28 +0000"
@@ -13794,6 +13952,66 @@
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
       "has_apple": "2025-01-03 22:59:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-01-03 23:42:34 +0000"
     },
     "done": true
   },
@@ -13840,6 +14058,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 23:43:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2025-01-03 23:22:25 +0000"
@@ -13852,9 +14076,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-01-03 23:46:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2025-01-03 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-01-03 23:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-03 23:51:07 +0000"
     },
     "done": true
   },
@@ -13910,6 +14158,12 @@
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000",
       "has_the_recipe": "2025-01-03 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-03 23:42:34 +0000"
     },
     "done": true
   },
