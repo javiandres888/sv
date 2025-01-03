@@ -2356,3 +2356,5 @@ BCLib - Nether BiomeSource (3b4b42db)
 [06:43:22] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [06:43:31] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [06:44:02] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[06:57:05] [Server thread/INFO]: Villager class_1646['Sanford'/1613556, l='ServerLevel[world]', x=-483.70, y=76.00, z=150.91] died, message: 'Sanford was slain by Zombie'
+[06:57:05] [Server thread/INFO]: Named entity class_1646['Sanford'/1613556, l='ServerLevel[world]', x=-483.70, y=76.00, z=150.91] died: Sanford was slain by Zombie
