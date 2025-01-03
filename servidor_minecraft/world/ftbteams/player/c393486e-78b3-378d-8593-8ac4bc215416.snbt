@@ -1,0 +1,17 @@
+{
+	id: "c393486e-78b3-378d-8593-8ac4bc215416"
+	type: "player"
+	player_name: "Dresan"
+	ranks: {
+		c393486e-78b3-378d-8593-8ac4bc215416: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dresan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

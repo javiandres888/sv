@@ -1,0 +1,17 @@
+{
+	id: "5b348f65-a8d9-377f-85e4-d132165984d5"
+	type: "player"
+	player_name: "kingsKAP"
+	ranks: {
+		5b348f65-a8d9-377f-85e4-d132165984d5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kingsKAP"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
