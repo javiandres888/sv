@@ -2335,3 +2335,10 @@ BCLib - Nether BiomeSource (1a6296b)
 [07:07:43] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [07:07:48] [Server thread/INFO]: kingsKAP has made the advancement [Walking Dead]
 [07:11:19] [Server thread/INFO]: Dresan has made the advancement [Walking Dead]
+[07:12:21] [Server thread/INFO]: kingsKAP was shot by Mutant Skeleton
+[07:12:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[07:12:42] [Server thread/WARN]: kingsKAP moved wrongly!
+[07:14:52] [Server thread/INFO]: Dresan was blown up by Night Lich
+[07:14:54] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[07:17:00] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 3176, 70, -1001, minecraft:overworld
+[07:19:46] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at 3186, 69, -983, minecraft:overworld

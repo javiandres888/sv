@@ -3470,6 +3470,7 @@
       "rotten_flesh": "2025-01-03 01:30:44 +0000",
       "cooked_chicken": "2025-01-03 01:44:31 +0000",
       "mushroom_stew": "2025-01-04 03:33:06 +0000",
+      "cooked_salmon": "2025-01-04 07:11:42 +0000",
       "carrot": "2025-01-04 00:53:00 +0000"
     },
     "done": false
@@ -18081,6 +18082,12 @@
   "mcda:recipes/base_armors/phantom_armor_boots": {
     "criteria": {
       "has_phantom_skin": "2025-01-04 07:05:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-01-04 07:11:19 +0000"
     },
     "done": true
   },
