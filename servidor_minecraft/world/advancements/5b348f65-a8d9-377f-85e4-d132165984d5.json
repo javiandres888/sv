@@ -259,6 +259,7 @@
       "minecraft:birch_forest": "2025-01-04 03:23:35 +0000",
       "minecraft:windswept_hills": "2025-01-04 00:49:34 +0000",
       "minecraft:bamboo_jungle": "2025-01-04 04:27:12 +0000",
+      "minecraft:savanna_plateau": "2025-01-04 04:44:41 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
       "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
       "minecraft:stony_peaks": "2025-01-04 04:40:46 +0000",
@@ -281,6 +282,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:51 +0000",
       "minecraft:snowy_beach": "2025-01-03 23:32:48 +0000",
       "minecraft:meadow": "2025-01-04 03:48:41 +0000",
+      "minecraft:savanna": "2025-01-04 04:44:10 +0000",
       "minecraft:plains": "2025-01-03 23:35:27 +0000"
     },
     "done": false
@@ -3219,6 +3221,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-01-04 04:48:24 +0000",
       "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
       "fen": "2025-01-04 03:44:05 +0000",
@@ -3228,6 +3231,7 @@
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
       "frozen_tundra": "2025-01-03 23:32:51 +0000",
+      "redstone_caves": "2025-01-04 04:47:09 +0000",
       "poppy_fields": "2025-01-03 23:35:45 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
@@ -3256,6 +3260,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-01-04 04:48:24 +0000",
       "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
       "fen": "2025-01-04 03:44:05 +0000",
@@ -16387,6 +16392,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-01-04 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-01-04 05:01:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-01-04 03:19:01 +0000"
@@ -16477,6 +16494,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-04 04:53:57 +0000"
+    },
+    "done": true
+  },
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-01-04 03:48:45 +0000"
@@ -16498,6 +16521,12 @@
   "mcda:recipes/unique_armors/archers_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-01-04 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_buttons": {
+    "criteria": {
+      "has_tag_minecraft_wooden_buttons": "2025-01-04 04:54:32 +0000"
     },
     "done": true
   },
@@ -16542,6 +16571,12 @@
       "has_any_ingredient": "2025-01-04 03:26:23 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-01-04 04:47:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {

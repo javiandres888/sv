@@ -1180,6 +1180,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-01-04 02:25:09 +0000",
+      "pine_log": "2025-01-04 05:00:53 +0000",
       "maple_log": "2025-01-03 01:19:31 +0000"
     },
     "done": false
@@ -16083,6 +16084,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-01-04 05:00:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
@@ -16173,6 +16180,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 05:00:53 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/asphalt/stairs": {
     "criteria": {
       "has_asphalt": "2025-01-04 03:38:17 +0000"
@@ -16221,6 +16234,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 05:00:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-04 04:37:02 +0000"
@@ -16236,6 +16255,18 @@
   "promenade:recipes/stonecutting/asphalt/wall": {
     "criteria": {
       "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-01-04 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-01-04 04:57:37 +0000"
     },
     "done": true
   },
