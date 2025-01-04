@@ -3486,6 +3486,7 @@
       "minecraft:spider": "2025-01-03 01:25:09 +0000",
       "minecraft:creeper": "2025-01-03 02:46:16 +0000",
       "minecraft:slime": "2025-01-03 02:33:34 +0000",
+      "minecraft:phantom": "2025-01-04 02:03:52 +0000",
       "minecraft:witch": "2025-01-03 03:18:00 +0000",
       "minecraft:cave_spider": "2025-01-03 07:12:48 +0000",
       "minecraft:silverfish": "2025-01-03 02:47:44 +0000",
@@ -7798,6 +7799,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "cooked_calamari": "2025-01-04 01:58:21 +0000",
       "toast": "2025-01-03 02:25:44 +0000",
       "calamari": "2025-01-03 07:04:22 +0000"
     },
@@ -15380,6 +15382,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-01-04 02:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 02:00:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_dining_bench": {
     "criteria": {
       "has_jungle_dining_bench": "2025-01-04 00:33:59 +0000"
@@ -15464,6 +15478,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-01-04 02:00:22 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2025-01-04 00:33:59 +0000"
@@ -15530,6 +15550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 02:00:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-01-04 00:50:15 +0000"
@@ -15584,6 +15610,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-04 02:02:10 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
       "has_item": "2025-01-04 01:47:15 +0000"
@@ -15599,6 +15631,12 @@
   "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
     "criteria": {
       "has_sweet_berries": "2025-01-04 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-01-04 02:00:22 +0000"
     },
     "done": true
   },
@@ -15722,6 +15760,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-04 02:03:52 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/enchanted_membrane": {
     "criteria": {
       "has_item.minecraft.phantom_membrane": "2025-01-04 01:17:39 +0000"
@@ -15752,9 +15796,21 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-01-04 02:06:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-01-04 01:07:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-04 02:02:10 +0000"
     },
     "done": true
   },
