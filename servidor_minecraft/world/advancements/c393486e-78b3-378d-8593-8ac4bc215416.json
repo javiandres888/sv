@@ -637,6 +637,7 @@
       "autumnal_maple_forest": "2025-01-03 23:08:41 +0000",
       "muddy_river": "2025-01-03 22:54:07 +0000",
       "willow_forest": "2025-01-03 02:11:37 +0000",
+      "frozen_tundra": "2025-01-04 00:06:24 +0000",
       "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
@@ -662,6 +663,7 @@
       "autumnal_maple_forest": "2025-01-03 23:08:41 +0000",
       "muddy_river": "2025-01-03 22:54:07 +0000",
       "willow_forest": "2025-01-03 02:11:37 +0000",
+      "frozen_tundra": "2025-01-04 00:06:24 +0000",
       "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
@@ -13960,6 +13962,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-01-03 23:05:55 +0000"
@@ -14033,15 +14047,33 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/stone_witch_altar": {
     "criteria": {
       "has_item": "2025-01-03 22:37:19 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_hoe": "2025-01-03 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14100,6 +14132,24 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/packed_snow_brick_stairs": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-01-04 00:02:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
@@ -14109,6 +14159,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-01-03 23:13:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14276,6 +14332,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-01-03 22:35:30 +0000"
@@ -14304,6 +14372,12 @@
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000",
       "has_the_recipe": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14340,6 +14414,12 @@
   "bewitchment:recipes/tools/curse_poppet": {
     "criteria": {
       "has_item": "2025-01-03 22:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14385,6 +14465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartylounge_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000"
@@ -14401,6 +14487,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-01-03 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14432,6 +14524,12 @@
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000",
       "has_the_recipe": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_walls": {
+    "criteria": {
+      "has_cut_packed_snow_bricks": "2025-01-04 00:02:28 +0000"
     },
     "done": true
   },
@@ -14489,9 +14587,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14513,6 +14629,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-01-03 23:05:55 +0000"
@@ -14522,6 +14644,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-03 23:49:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14568,6 +14696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartybeach_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000"
@@ -14583,6 +14717,12 @@
   "mcda:recipes/base_armors/climbing_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-01-03 22:50:05 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-01-04 00:06:17 +0000"
     },
     "done": true
   },
@@ -14647,6 +14787,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-01-03 22:37:19 +0000"
@@ -14672,9 +14818,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14696,6 +14854,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:58:54 +0000"
@@ -14705,6 +14869,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-03 22:58:54 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14738,6 +14908,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-01-04 00:07:03 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/judgment_poppet": {
     "criteria": {
       "has_item": "2025-01-03 22:49:24 +0000"
@@ -14747,6 +14923,12 @@
   "beachparty:palm_fence": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_brick_slab": {
+    "criteria": {
+      "has_packed_snow_bricks": "2025-01-04 00:02:28 +0000"
     },
     "done": true
   },
@@ -14810,6 +14992,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-01-04 00:06:17 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_planks": {
     "criteria": {
       "has_palm_log": "2025-01-03 22:39:53 +0000",
@@ -14847,6 +15035,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-03 22:49:24 +0000"
@@ -14874,6 +15068,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-01-03 23:38:05 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-01-04 00:04:49 +0000"
     },
     "done": true
   },
@@ -14919,15 +15119,33 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-01-03 22:35:30 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
@@ -14950,6 +15168,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2025-01-03 23:13:38 +0000"
@@ -14959,6 +15189,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-03 22:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 23:58:26 +0000"
     },
     "done": true
   },
