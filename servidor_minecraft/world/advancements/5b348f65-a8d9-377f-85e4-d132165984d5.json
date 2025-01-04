@@ -5450,6 +5450,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-01-03 07:12:18 +0000",
+      "potato": "2025-01-04 01:37:53 +0000",
       "wheat": "2025-01-03 01:54:38 +0000"
     },
     "done": false
@@ -13139,6 +13140,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-03 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "archon:channel": {
+    "criteria": {
+      "channeled": "2025-01-04 01:47:04 +0000"
     },
     "done": true
   },

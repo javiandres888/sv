@@ -15416,6 +15416,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-04 01:47:15 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2025-01-04 00:33:59 +0000"
@@ -15554,9 +15560,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-04 01:47:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-01-04 01:47:15 +0000"
     },
     "done": true
   },
