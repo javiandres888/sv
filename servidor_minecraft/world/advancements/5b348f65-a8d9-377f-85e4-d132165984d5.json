@@ -256,6 +256,7 @@
       "minecraft:deep_ocean": "2025-01-03 22:46:18 +0000",
       "minecraft:frozen_river": "2025-01-03 23:32:44 +0000",
       "minecraft:sunflower_plains": "2025-01-04 00:09:49 +0000",
+      "minecraft:windswept_hills": "2025-01-04 00:49:34 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
       "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
       "minecraft:river": "2025-01-03 01:14:00 +0000",
@@ -267,6 +268,8 @@
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:22 +0000",
       "minecraft:ice_spikes": "2025-01-03 23:35:20 +0000",
       "minecraft:frozen_ocean": "2025-01-04 00:42:24 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-04 00:55:54 +0000",
+      "minecraft:windswept_forest": "2025-01-04 00:49:23 +0000",
       "minecraft:ocean": "2025-01-03 22:40:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:51 +0000",
       "minecraft:snowy_beach": "2025-01-03 23:32:48 +0000",
@@ -14035,6 +14038,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-01-04 00:55:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-01-03 22:49:34 +0000"
@@ -14361,6 +14370,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-04 00:48:06 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/misc/fur_upgrade_template": {
     "criteria": {
       "has_fur_upgrade_template": "2025-01-03 23:49:59 +0000"
@@ -14587,6 +14602,12 @@
   "regions_unexplored:recipes/decorations/pine_sign": {
     "criteria": {
       "has_pine_planks": "2025-01-03 23:59:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-01-04 00:56:10 +0000"
     },
     "done": true
   },

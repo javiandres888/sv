@@ -3453,7 +3453,8 @@
       "bread": "2025-01-03 01:23:17 +0000",
       "golden_apple": "2025-01-03 05:08:18 +0000",
       "rotten_flesh": "2025-01-03 01:30:44 +0000",
-      "cooked_chicken": "2025-01-03 01:44:31 +0000"
+      "cooked_chicken": "2025-01-03 01:44:31 +0000",
+      "carrot": "2025-01-04 00:53:00 +0000"
     },
     "done": false
   },
@@ -5493,7 +5494,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-01-03 01:54:16 +0000"
+      "wheat": "2025-01-03 01:54:16 +0000",
+      "carrot": "2025-01-04 00:52:58 +0000"
     },
     "done": false
   },
@@ -15417,6 +15419,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 00:50:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-01-04 00:33:59 +0000"
@@ -15435,6 +15443,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-04 00:51:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
     "criteria": {
       "has_map": "2025-01-04 00:31:38 +0000"
@@ -15444,6 +15458,12 @@
   "mcda:recipes/unique_armors/archers_boots": {
     "criteria": {
       "has_leather_boots": "2025-01-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-04 00:51:22 +0000"
     },
     "done": true
   },
@@ -15465,9 +15485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-04 00:51:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_boots": {
     "criteria": {
       "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-01-04 00:50:15 +0000"
     },
     "done": true
   },
@@ -15495,6 +15527,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-01-04 00:51:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-04 00:33:59 +0000"
@@ -15510,6 +15548,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 00:50:15 +0000"
     },
     "done": true
   },
@@ -15546,6 +15590,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 00:50:15 +0000"
     },
     "done": true
   },
@@ -15597,6 +15647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-04 00:51:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 00:33:59 +0000"
@@ -15621,9 +15677,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-01-04 00:51:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
     "criteria": {
       "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-01-04 00:52:59 +0000"
     },
     "done": true
   },
@@ -15642,6 +15716,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 00:51:22 +0000"
     },
     "done": true
   },
@@ -15702,6 +15782,12 @@
   "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
       "has_jungle_fancy_bed": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-01-04 00:52:59 +0000"
     },
     "done": true
   },
