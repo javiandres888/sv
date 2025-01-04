@@ -13571,6 +13571,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-01-04 01:21:20 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 00:06:26 +0000"
@@ -13632,6 +13638,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-01-04 01:21:20 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/purple_coffin": {
     "criteria": {
       "has_item": "2025-01-04 00:45:02 +0000"
@@ -13641,6 +13653,12 @@
   "bewitchment:recipes/tools/taglock": {
     "criteria": {
       "has_item": "2025-01-03 22:52:33 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-01-04 01:18:55 +0000"
     },
     "done": true
   },
@@ -13917,6 +13935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 01:21:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 00:06:26 +0000"
@@ -13932,6 +13956,12 @@
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_leather_boots": "2025-01-03 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-01-04 01:21:58 +0000"
     },
     "done": true
   },
@@ -13980,6 +14010,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-01-03 22:50:29 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-01-04 01:21:57 +0000"
     },
     "done": true
   },
@@ -14279,6 +14315,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-01-04 01:18:55 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-01-04 00:55:54 +0000"
@@ -14330,6 +14372,12 @@
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 01:21:20 +0000"
     },
     "done": true
   },
@@ -14451,6 +14499,12 @@
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-01-04 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-01-04 01:18:55 +0000"
     },
     "done": true
   },
@@ -14908,6 +14962,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-04 01:01:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-01-04 01:26:56 +0000"
     },
     "done": true
   },

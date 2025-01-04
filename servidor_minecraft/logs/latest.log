@@ -523,3 +523,6 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [01:14:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3599, y=70, z=-593}
 [01:14:05] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3600, y=70, z=-594} but found not block entity block Block{minecraft:ice} at location
 [01:14:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3600, y=70, z=-594}
+[01:21:57] [Server thread/INFO]: kingsKAP has made the advancement [Novice Spellcaster]
+[01:21:58] [Server thread/INFO]: kingsKAP has made the advancement [Create: Estrogen]
+[01:26:56] [Server thread/INFO]: kingsKAP has made the advancement [Source of Evil]
