@@ -616,6 +616,7 @@
       "minecraft:snowy_plains": "2025-01-03 23:35:45 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:55 +0000",
       "minecraft:snowy_taiga": "2025-01-04 00:28:37 +0000",
+      "minecraft:dripstone_caves": "2025-01-04 08:03:27 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:19 +0000",
       "minecraft:forest": "2025-01-03 00:59:19 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:12 +0000",
@@ -624,6 +625,7 @@
       "minecraft:deep_frozen_ocean": "2025-01-04 00:35:17 +0000",
       "minecraft:windswept_forest": "2025-01-04 00:31:17 +0000",
       "minecraft:ocean": "2025-01-03 22:40:07 +0000",
+      "minecraft:jungle": "2025-01-04 08:03:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:46 +0000",
       "minecraft:snowy_beach": "2025-01-04 00:28:12 +0000",
       "minecraft:savanna": "2025-01-04 07:28:35 +0000",
@@ -18088,33 +18090,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_mechanical_nest": {
-    "criteria": {
-      "location0": "2025-01-04 07:30:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
-    "criteria": {
-      "has_prismarite": "2025-01-04 07:33:58 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/phantom_armor_boots": {
     "criteria": {
       "has_phantom_skin": "2025-01-04 07:05:39 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/hanging_prismarite": {
-    "criteria": {
-      "has_prismarite": "2025-01-04 07:33:58 +0000"
-    },
-    "done": true
-  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2025-01-04 07:11:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2025-01-04 07:28:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-04 07:30:05 +0000"
     },
     "done": true
   },
@@ -18125,9 +18121,33 @@
     },
     "done": false
   },
-  "regions_unexplored:recipes/decorations/acacia_shrub": {
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
     "criteria": {
-      "has_acacia_sapling": "2025-01-04 07:28:38 +0000"
+      "has_prismarite": "2025-01-04 07:33:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-01-04 07:33:58 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-01-04 07:59:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 07:59:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-01-04 07:59:58 +0000"
     },
     "done": true
   },
