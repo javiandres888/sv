@@ -18159,6 +18159,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/chorus_fruit_on_a_stick_recipe": {
+    "criteria": {
+      "got_the_chorus_fruit": "2025-01-04 08:47:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-01-04 08:33:13 +0000"
@@ -18222,6 +18228,12 @@
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-01-04 08:33:56 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-01-04 08:43:52 +0000"
     },
     "done": true
   },
@@ -18336,6 +18348,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-04 08:33:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-01-04 08:51:48 +0000"
     },
     "done": true
   },
@@ -18996,6 +19014,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-01-04 08:44:01 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-01-04 08:33:56 +0000"
@@ -19248,6 +19272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-04 08:47:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
       "has_acacia_corner_trim": "2025-01-04 08:33:56 +0000"
@@ -19440,9 +19470,21 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-01-04 08:43:52 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-01-04 08:20:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-01-04 08:44:01 +0000"
     },
     "done": true
   },
