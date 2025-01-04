@@ -4080,6 +4080,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-01-04 05:19:24 +0000",
+      "willow_log": "2025-01-04 05:34:02 +0000",
       "pine_log": "2025-01-03 23:58:51 +0000",
       "maple_log": "2025-01-03 01:20:52 +0000",
       "bamboo_log": "2025-01-03 22:30:45 +0000"
@@ -16375,6 +16376,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2025-01-04 03:24:16 +0000"
@@ -16393,6 +16400,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
+    "criteria": {
+      "has_golden_axe": "2025-01-04 05:34:34 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_brown": {
     "criteria": {
       "has_dyes/black": "2025-01-04 03:26:23 +0000"
@@ -16402,6 +16415,12 @@
   "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
       "has_log": "2025-01-04 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
     },
     "done": true
   },
@@ -16447,6 +16466,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2025-01-04 05:34:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:17:11 +0000"
@@ -16486,6 +16511,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
     "criteria": {
       "has_diamond_boots": "2025-01-04 05:01:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
     },
     "done": true
   },
@@ -16633,6 +16664,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:17:11 +0000"
@@ -16642,6 +16679,12 @@
   "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
     "criteria": {
       "has_melon_slice": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
     },
     "done": true
   },
@@ -16672,6 +16715,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 05:34:02 +0000"
     },
     "done": true
   },
@@ -16708,6 +16757,12 @@
   "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
       "has_log": "2025-01-04 05:19:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2025-01-04 05:39:31 +0000"
     },
     "done": true
   },
@@ -16867,6 +16922,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2025-01-04 05:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-01-04 03:26:03 +0000"
@@ -16918,6 +16979,12 @@
   "ae2:recipes/misc/network/cables/glass_brown": {
     "criteria": {
       "has_dyes/black": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
     },
     "done": true
   },
@@ -16993,9 +17060,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_door": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-01-04 05:41:30 +0000"
     },
     "done": true
   },
@@ -17011,9 +17090,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 05:34:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2025-01-04 05:41:30 +0000"
     },
     "done": true
   },

@@ -1358,3 +1358,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:31:25] [Server thread/WARN]: Dresan moved wrongly!
 [05:34:49] [Server thread/INFO]: Villager class_1646['Barbara'/292790, l='ServerLevel[world]', x=-1120.34, y=64.00, z=-10.56] died, message: 'Barbara hit the ground too hard'
 [05:34:49] [Server thread/INFO]: Named entity class_1646['Barbara'/292790, l='ServerLevel[world]', x=-1120.34, y=64.00, z=-10.56] died: Barbara fell from a high place
+[05:36:42] [Server thread/INFO]: Dresan has made the advancement [Refined Iron]
+[05:40:23] [Server thread/WARN]: kingsKAP moved wrongly!
+[05:40:58] [Server thread/INFO]: Dresan has made the advancement [Heart of the Machine]
