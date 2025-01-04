@@ -634,6 +634,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-04 00:27:05 +0000",
       "cooked_mutton": "2025-01-03 02:54:04 +0000",
       "cooked_beef": "2025-01-03 22:42:56 +0000",
       "beef": "2025-01-04 00:03:13 +0000",
@@ -13669,6 +13670,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-04 00:27:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_leather_boots": "2025-01-03 23:44:06 +0000"
@@ -13780,6 +13787,12 @@
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-01-04 00:24:38 +0000"
     },
     "done": true
   },
@@ -13908,6 +13921,12 @@
   "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
     "criteria": {
       "has_poppy_bush": "2025-01-04 00:15:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-04 00:27:01 +0000"
     },
     "done": true
   },
