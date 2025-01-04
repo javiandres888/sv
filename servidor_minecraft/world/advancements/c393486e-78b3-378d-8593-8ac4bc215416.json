@@ -613,12 +613,17 @@
       "minecraft:river": "2025-01-03 01:17:15 +0000",
       "minecraft:snowy_plains": "2025-01-03 23:35:45 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:55 +0000",
+      "minecraft:snowy_taiga": "2025-01-04 00:28:37 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:19 +0000",
       "minecraft:forest": "2025-01-03 00:59:19 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:12 +0000",
       "minecraft:ice_spikes": "2025-01-03 23:35:17 +0000",
+      "minecraft:frozen_ocean": "2025-01-04 00:28:21 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-04 00:35:17 +0000",
+      "minecraft:windswept_forest": "2025-01-04 00:31:17 +0000",
       "minecraft:ocean": "2025-01-03 22:40:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:46 +0000",
+      "minecraft:snowy_beach": "2025-01-04 00:28:12 +0000",
       "minecraft:plains": "2025-01-03 23:31:25 +0000"
     },
     "done": false
@@ -3472,7 +3477,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-04 00:35:42 +0000",
       "minecraft:skeleton": "2025-01-03 02:46:25 +0000",
+      "minecraft:vindicator": "2025-01-04 00:36:17 +0000",
       "minecraft:spider": "2025-01-03 01:25:09 +0000",
       "minecraft:creeper": "2025-01-03 02:46:16 +0000",
       "minecraft:slime": "2025-01-03 02:33:34 +0000",
@@ -15335,6 +15342,366 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-04 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-01-04 00:31:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-04 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-01-04 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-01-04 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-01-04 00:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-01-04 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-01-04 00:31:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-01-04 00:33:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-01-04 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-01-04 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-04 00:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-01-04 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-01-04 00:33:59 +0000"
     },
     "done": true
   },

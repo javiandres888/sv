@@ -50,3 +50,179 @@
 [00:25:53] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Dresan -> Global
 [00:25:53] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Dresan. Claiming: GRAVE / Robbing: INVENTORY
 [00:25:54] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[00:28:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[00:28:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2783, y=62, z=303} but found not block entity block Block{minecraft:ice} at location
+[00:28:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2783, y=62, z=303}
+[00:28:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2783, y=62, z=301} but found not block entity block Block{minecraft:ice} at location
+[00:28:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2783, y=62, z=301}
+[00:28:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2783, y=62, z=302} but found not block entity block Block{minecraft:ice} at location
+[00:28:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2783, y=62, z=302}
+[00:28:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2782, y=62, z=303} but found not block entity block Block{minecraft:ice} at location
+[00:28:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2782, y=62, z=303}
+[00:28:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2783, y=62, z=304} but found not block entity block Block{minecraft:ice} at location
+[00:28:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2783, y=62, z=304}
+[00:28:26] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2751, y=27, z=141} but found not block entity block Block{minecraft:ice} at location
+[00:28:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2751, y=27, z=141}
+[00:28:34] [pool-12-thread-11/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert]] from pos class_2338{x=2811, y=81, z=421}
+[00:28:38] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3009, y=53, z=272} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3009, y=53, z=272}
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3009, y=52, z=272} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3009, y=52, z=272}
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3008, y=51, z=272} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3008, y=51, z=272}
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3008, y=52, z=273} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3008, y=52, z=273}
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3010, y=52, z=272} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3010, y=52, z=272}
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3010, y=51, z=272} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3010, y=51, z=272}
+[00:31:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3008, y=53, z=272} but found not block entity block Block{minecraft:ice} at location
+[00:31:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3008, y=53, z=272}
+[00:32:37] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2015, y=0, z=47} but found not block entity block Block{minecraft:ice} at location
+[00:32:37] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2015, y=0, z=47}
+[00:32:44] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2047, y=81, z=-31} but found not block entity block Block{minecraft:ice} at location
+[00:32:44] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2047, y=81, z=-31}
+[00:33:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3118, y=80, z=318} but found not block entity block Block{minecraft:ice} at location
+[00:33:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3118, y=80, z=318}
+[00:33:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3119, y=80, z=318} but found not block entity block Block{minecraft:ice} at location
+[00:33:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3119, y=80, z=318}
+[00:33:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3119, y=81, z=319} but found not block entity block Block{minecraft:ice} at location
+[00:33:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3119, y=81, z=319}
+[00:33:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3119, y=79, z=317} but found not block entity block Block{minecraft:ice} at location
+[00:33:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3119, y=79, z=317}
+[00:33:24] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3119, y=80, z=319} but found not block entity block Block{minecraft:ice} at location
+[00:33:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3119, y=80, z=319}
+[00:33:28] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3087, y=59, z=287} but found not block entity block Block{minecraft:ice} at location
+[00:33:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3087, y=59, z=287}
+[00:33:28] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3088, y=58, z=286} but found not block entity block Block{minecraft:ice} at location
+[00:33:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3088, y=58, z=286}
+[00:33:28] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3088, y=59, z=287} but found not block entity block Block{minecraft:ice} at location
+[00:33:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3088, y=59, z=287}
+[00:33:28] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3088, y=58, z=287} but found not block entity block Block{minecraft:ice} at location
+[00:33:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3088, y=58, z=287}
+[00:33:28] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3089, y=58, z=287} but found not block entity block Block{minecraft:ice} at location
+[00:33:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3089, y=58, z=287}
+[00:33:33] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2209, y=-18, z=-144} but found not block entity block Block{minecraft:ice} at location
+[00:33:33] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2209, y=-18, z=-144}
+[00:33:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'obscure_api:magic_damage'
+[00:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[00:33:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3168, y=54, z=449} but found not block entity block Block{minecraft:ice} at location
+[00:33:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3168, y=54, z=449}
+[00:33:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3168, y=55, z=448} but found not block entity block Block{minecraft:ice} at location
+[00:33:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3168, y=55, z=448}
+[00:33:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=30, z=303} but found not block entity block Block{minecraft:ice} at location
+[00:33:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=30, z=303}
+[00:33:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=29, z=303} but found not block entity block Block{minecraft:ice} at location
+[00:33:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=29, z=303}
+[00:33:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3229, y=64, z=288} but found not block entity block Block{minecraft:ice} at location
+[00:33:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3229, y=64, z=288}
+[00:33:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=65, z=288} but found not block entity block Block{minecraft:ice} at location
+[00:33:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=65, z=288}
+[00:33:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=64, z=288} but found not block entity block Block{minecraft:ice} at location
+[00:33:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=64, z=288}
+[00:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4293ms or 85 ticks behind
+[00:34:08] [pool-12-thread-12/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands]] from pos class_2338{x=2261, y=77, z=-181}
+[00:34:09] [Worker-Main-1/ERROR]: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-1)
+Possible solutions: Find possible causes in the stack trace below and report to the corresponding mod authors 
+
+java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a different thread (owner: Server thread, current: Worker-Main-1)
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.handleNotOwner(CheckedThreadLocalRandom.java:51) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.isSafe(CheckedThreadLocalRandom.java:38) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at com.ishland.uwrad.common.CheckedThreadLocalRandom.next(CheckedThreadLocalRandom.java:82) ~[unsafe-world-random-access-detector-1.1.0.jar:?]
+	at net.minecraft.util.math.random.BaseRandom.nextInt(BaseRandom.java:33) ~[server-intermediary.jar:?]
+	at net.minecraft.util.math.random.Random.nextBetween(net/minecraft/class_5819.java:52) ~[server-intermediary.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.WindEntity.<init>(WindEntity.java:50) ~[frostiful-1.0.8.jar:?]
+	at com.github.thedeathlycow.frostiful.entity.FreezingWindEntity.<init>(FreezingWindEntity.java:18) ~[frostiful-1.0.8.jar:?]
+	at net.minecraft.entity.EntityType.create(net/minecraft/class_1299.java:544) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.EntityType.method_17846(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.entity.EntityType.getEntityFromNbt(net/minecraft/class_1299.java:548) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.yungsapi_getEntity(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:126) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.handler$jem001$yungsapi$processEntities(com/yungnickyoung/minecraft/yungsapi/mixin/EntityProcessorMixin.java [yungsapi_fabric.mixins.json]:62) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureTemplate.place(net/minecraft/class_3499.java:347) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.pool.SinglePoolElement.generate(net/minecraft/class_3781.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:89) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.PoolStructurePiece.generate(net/minecraft/class_3790.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.structure.StructureStart.place(net/minecraft/class_3449.java:100) ~[server-intermediary.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.method_38265(net/minecraft/class_2794.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-31.1-jre.jar:?]
+	at net.minecraft.world.gen.chunk.ChunkGenerator.generateFeatures(net/minecraft/class_2794.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.method_51375(net/minecraft/class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus$SimpleGenerationTask.doWork(ChunkStatus.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.world.chunk.ChunkStatus.runGenerationTask(net/minecraft/class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17225(net/minecraft/class_3898.java:684) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.server.world.ThreadedAnvilChunkStorage.method_17224(net/minecraft/class_3898.java:673) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.world.ChunkTaskPrioritySystem.method_17634(ChunkTaskPrioritySystem.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runNext(TaskExecutor.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.runWhile(TaskExecutor.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.TaskExecutor.run(TaskExecutor.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[00:34:14] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2261, y=77, z=-182} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[00:34:14] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=2261, y=77, z=-182}
+[00:34:14] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2261, y=76, z=-182} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[00:34:14] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=2261, y=76, z=-182}
+[00:34:14] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2261, y=77, z=-181} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[00:34:14] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location class_2338{x=2261, y=77, z=-181}
+[00:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6704ms or 134 ticks behind
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2978, y=58, z=222} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2978, y=58, z=222}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2977, y=58, z=223} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2977, y=58, z=223}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2977, y=58, z=222} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2977, y=58, z=222}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2977, y=58, z=221} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2977, y=58, z=221}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=2976, y=58, z=222} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=2976, y=58, z=222}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3215, y=70, z=210} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3215, y=70, z=210}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3214, y=70, z=208} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3214, y=70, z=208}
+[00:35:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3215, y=69, z=210} but found not block entity block Block{minecraft:ice} at location
+[00:35:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3215, y=69, z=210}
+[00:35:17] [Server thread/INFO]: Dresan has made the advancement [Ice Maze]
+[00:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[00:35:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=78, z=223} but found not block entity block Block{minecraft:ice} at location
+[00:35:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=78, z=223}
+[00:35:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=79, z=223} but found not block entity block Block{minecraft:ice} at location
+[00:35:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=79, z=223}
+[00:35:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3230, y=78, z=223} but found not block entity block Block{minecraft:ice} at location
+[00:35:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3230, y=78, z=223}
+[00:35:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3231, y=80, z=223} but found not block entity block Block{minecraft:ice} at location
+[00:35:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3231, y=80, z=223}
+[00:35:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3248, y=55, z=238} but found not block entity block Block{minecraft:ice} at location
+[00:35:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3248, y=55, z=238}
+[00:35:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3248, y=54, z=238} but found not block entity block Block{minecraft:ice} at location
+[00:35:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3248, y=54, z=238}
+[00:35:25] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=3412, y=0, z=452}
+[00:36:01] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1745, y=111, z=220}
+[00:36:01] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1745, y=111, z=220}
+[00:36:02] [Server thread/INFO]: kingsKAP has made the advancement [Smashing Success]
+[00:37:46] [Server thread/INFO]: Dresan has made the advancement [Exploration]
+[00:40:20] [Server thread/INFO]: kingsKAP has made the advancement [I was here, i lived, i..]
+[00:42:35] [Server thread/INFO]: kingsKAP has made the advancement [World of illusion]
+[00:44:46] [Server thread/INFO]: kingsKAP has made the advancement [Local Brewery]
+[00:45:06] [Server thread/INFO]: Villager class_1646['Micheal'/93089, l='ServerLevel[world]', x=3230.78, y=63.50, z=387.50] died, message: 'Micheal went up in flames'
+[00:45:06] [Server thread/INFO]: Named entity class_1646['Micheal'/93089, l='ServerLevel[world]', x=3230.78, y=63.50, z=387.50] died: Micheal went up in flames
+[00:45:48] [Server thread/INFO]: Villager class_1646['Malka'/93090, l='ServerLevel[world]', x=3226.56, y=63.97, z=388.77] died, message: 'Malka went up in flames'
+[00:45:48] [Server thread/INFO]: Named entity class_1646['Malka'/93090, l='ServerLevel[world]', x=3226.56, y=63.97, z=388.77] died: Malka went up in flames
+[00:46:10] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3360, y=65, z=193} but found not block entity block Block{minecraft:ice} at location
+[00:46:10] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3360, y=65, z=193}
+[00:46:10] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3360, y=64, z=193} but found not block entity block Block{minecraft:ice} at location
+[00:46:10] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:ice} but failed at location class_2338{x=3360, y=64, z=193}
+[00:46:34] [Server thread/INFO]: kingsKAP has made the advancement [Best Friends Forever]
+[00:46:55] [Server thread/INFO]: Villager class_1646['Ned'/93091, l='ServerLevel[world]', x=3230.97, y=63.71, z=394.90] died, message: 'Ned burned to death'
+[00:46:55] [Server thread/INFO]: Named entity class_1646['Ned'/93091, l='ServerLevel[world]', x=3230.97, y=63.71, z=394.90] died: Ned burned to death
+[00:47:06] [Server thread/INFO]: Dresan was slain by Vindicator
+[00:47:08] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[00:48:06] [Server thread/INFO]: kingsKAP has made the advancement [This Must be a Sign!]

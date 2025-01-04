@@ -261,10 +261,12 @@
       "minecraft:river": "2025-01-03 01:14:00 +0000",
       "minecraft:snowy_plains": "2025-01-03 23:33:58 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:57 +0000",
+      "minecraft:snowy_taiga": "2025-01-04 00:40:12 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:25 +0000",
       "minecraft:forest": "2025-01-03 01:05:22 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:22 +0000",
       "minecraft:ice_spikes": "2025-01-03 23:35:20 +0000",
+      "minecraft:frozen_ocean": "2025-01-04 00:42:24 +0000",
       "minecraft:ocean": "2025-01-03 22:40:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:51 +0000",
       "minecraft:snowy_beach": "2025-01-03 23:32:48 +0000",
@@ -12959,6 +12961,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-04 00:44:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
       "has_brown_mushroom": "2025-01-03 23:42:34 +0000"
@@ -13014,6 +13022,12 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-01-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartytiki_chair": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000",
@@ -13057,6 +13071,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-04 00:46:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-01-04 00:40:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/pine_fence": {
     "criteria": {
       "has_pine_planks": "2025-01-03 23:59:05 +0000"
@@ -13094,6 +13120,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-01-04 00:46:37 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 00:06:26 +0000"
@@ -13109,6 +13141,12 @@
   "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-01-04 00:40:21 +0000"
     },
     "done": true
   },
@@ -13236,6 +13274,12 @@
   "handcrafted:recipes/misc/dark_oak_couch": {
     "criteria": {
       "has_dark_oak_couch": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-01-04 00:40:20 +0000"
     },
     "done": true
   },
@@ -13464,15 +13508,33 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/purple_coffin": {
+    "criteria": {
+      "has_item": "2025-01-04 00:45:02 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/taglock": {
     "criteria": {
       "has_item": "2025-01-03 22:52:33 +0000"
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-01-04 00:40:21 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-01-04 00:46:37 +0000"
     },
     "done": true
   },
@@ -13543,6 +13605,19 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-01-04 00:42:35 +0000",
+      "killed_iceologer": "2025-01-04 00:40:20 +0000"
+    },
+    "done": false
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-01-04 00:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-01-03 22:59:26 +0000"
@@ -13558,6 +13633,12 @@
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-03 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-01-04 00:40:21 +0000"
     },
     "done": true
   },
@@ -13942,6 +14023,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-01-04 00:40:21 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_brick_slab_from_block_stonecutting": {
     "criteria": {
       "has_packed_snow_block": "2025-01-04 00:04:08 +0000"
@@ -13987,6 +14074,12 @@
   "bewitchment:recipes/redstone/trapped_juniper_chest": {
     "criteria": {
       "has_item": "2025-01-03 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-01-04 00:46:37 +0000"
     },
     "done": true
   },
@@ -14132,6 +14225,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-03 22:59:31 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-01-04 00:40:21 +0000"
     },
     "done": true
   },
@@ -14515,9 +14614,21 @@
     },
     "done": true
   },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-01-04 00:46:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
     "criteria": {
       "has_diamond_leggings": "2025-01-03 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-01-04 00:42:35 +0000"
     },
     "done": true
   },
