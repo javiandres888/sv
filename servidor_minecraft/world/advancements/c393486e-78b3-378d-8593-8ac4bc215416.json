@@ -16089,6 +16089,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-01-04 03:39:46 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_torch": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
@@ -16098,6 +16104,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
     },
     "done": true
   },
@@ -16113,15 +16125,45 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_torch": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
     },
     "done": true
   },
@@ -16137,6 +16179,24 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-01-04 03:39:46 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
@@ -16146,6 +16206,18 @@
   "twigs:recipes/bamboo_mat": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-01-04 03:38:17 +0000"
     },
     "done": true
   },
