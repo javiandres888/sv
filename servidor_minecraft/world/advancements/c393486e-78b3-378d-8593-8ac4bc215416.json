@@ -16089,6 +16089,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-01-04 06:42:36 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-01-04 05:09:03 +0000",
@@ -16182,6 +16188,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-01-04 06:42:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-01-04 05:40:58 +0000"
@@ -16257,6 +16269,12 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2025-01-04 05:36:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-01-04 06:42:36 +0000"
     },
     "done": true
   },
@@ -16734,6 +16752,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-01-04 06:42:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2025-01-04 05:08:34 +0000"
@@ -17115,6 +17139,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-01-04 06:42:36 +0000"
     },
     "done": true
   },
@@ -17808,6 +17838,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-01-04 06:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-04 05:48:25 +0000"
@@ -17961,6 +17997,12 @@
   "regions_unexplored:recipes/building_blocks/pine_slab": {
     "criteria": {
       "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-01-04 06:42:36 +0000"
     },
     "done": true
   },
