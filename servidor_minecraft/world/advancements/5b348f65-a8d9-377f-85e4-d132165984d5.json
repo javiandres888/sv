@@ -659,6 +659,7 @@
       "golden_apple": "2025-01-04 06:46:48 +0000",
       "rotten_flesh": "2025-01-03 01:23:29 +0000",
       "salmon": "2025-01-04 03:04:11 +0000",
+      "golden_carrot": "2025-01-04 07:22:49 +0000",
       "cooked_chicken": "2025-01-03 01:51:21 +0000",
       "mushroom_stew": "2025-01-03 23:02:30 +0000",
       "carrot": "2025-01-03 23:51:17 +0000"
@@ -17380,9 +17381,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-04 07:30:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-04 07:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-04 07:30:45 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2025-01-04 07:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-04 07:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-01-04 07:30:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_oxidized_copper_pillar_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-01-04 07:30:45 +0000"
     },
     "done": true
   },

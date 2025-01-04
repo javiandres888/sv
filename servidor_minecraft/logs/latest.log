@@ -2342,3 +2342,7 @@ BCLib - Nether BiomeSource (1a6296b)
 [07:14:54] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [07:17:00] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 3176, 70, -1001, minecraft:overworld
 [07:19:46] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at 3186, 69, -983, minecraft:overworld
+[07:30:05] [Server thread/INFO]: Dresan has made the advancement [Welcome To The Machine]
+[07:30:46] [Server thread/INFO]: kingsKAP has made the advancement [Welcome To The Machine]
+[07:30:57] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[07:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
