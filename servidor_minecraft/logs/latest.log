@@ -1343,3 +1343,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:10:00] [Server thread/WARN]: kingsKAP moved wrongly!
 [05:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
 [05:10:43] [Server thread/WARN]: kingsKAP moved wrongly!
+[05:16:40] [Server thread/INFO]: No return portal found
+[05:16:40] [Server thread/INFO]: kingsKAP has made the advancement [We Need to Go Deeper]
+[05:16:40] [Server thread/INFO]: kingsKAP has made the advancement [Nether Depths Upgrade]
+[05:16:40] [Server thread/INFO]: kingsKAP has made the advancement [Time for a Sweat]
+[05:16:41] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[05:17:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[05:17:36] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[05:22:10] [Server thread/INFO]: kingsKAP has made the advancement [Maybe Don't Touch it]
+[05:27:02] [Server thread/WARN]: Dresan moved wrongly!
+[05:27:34] [Server thread/INFO]: Villager class_1646['Chia'/293181, l='ServerLevel[world]', x=-1177.36, y=225.50, z=7.73] died, message: 'Chia hit the ground too hard'
+[05:27:34] [Server thread/INFO]: Named entity class_1646['Chia'/293181, l='ServerLevel[world]', x=-1177.36, y=225.50, z=7.73] died: Chia fell from a high place
+[05:31:25] [Server thread/WARN]: Dresan moved wrongly!
+[05:31:25] [Server thread/WARN]: Dresan moved wrongly!
+[05:34:49] [Server thread/INFO]: Villager class_1646['Barbara'/292790, l='ServerLevel[world]', x=-1120.34, y=64.00, z=-10.56] died, message: 'Barbara hit the ground too hard'
+[05:34:49] [Server thread/INFO]: Named entity class_1646['Barbara'/292790, l='ServerLevel[world]', x=-1120.34, y=64.00, z=-10.56] died: Barbara fell from a high place

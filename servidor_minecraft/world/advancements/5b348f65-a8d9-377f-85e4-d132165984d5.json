@@ -4079,6 +4079,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-01-04 05:19:24 +0000",
       "pine_log": "2025-01-03 23:58:51 +0000",
       "maple_log": "2025-01-03 01:20:52 +0000",
       "bamboo_log": "2025-01-03 22:30:45 +0000"
@@ -16326,9 +16327,51 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:sulfuric_bone_reef": "2025-01-04 05:16:41 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-01-04 05:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-04 05:31:32 +0000"
     },
     "done": true
   },
@@ -16356,6 +16399,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 05:19:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/drain": {
     "criteria": {
       "has_iron_bars": "2025-01-04 03:33:25 +0000"
@@ -16368,6 +16417,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-01-04 05:17:15 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/voodoo_poppet": {
     "criteria": {
       "has_item": "2025-01-04 03:48:45 +0000"
@@ -16377,6 +16438,18 @@
   "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
     "criteria": {
       "has_red_garnet_gem": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-04 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },
@@ -16398,15 +16471,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
+    "criteria": {
+      "has_oak_stairs": "2025-01-04 05:25:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
     "criteria": {
       "has_diamond_boots": "2025-01-04 05:01:48 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-04 05:31:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-01-04 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 05:19:24 +0000"
     },
     "done": true
   },
@@ -16425,6 +16528,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_brown": {
     "criteria": {
       "has_dyes/black": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },
@@ -16452,6 +16561,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-01-04 04:42:34 +0000"
@@ -16464,9 +16585,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/curse_poppet": {
     "criteria": {
       "has_item": "2025-01-04 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },
@@ -16485,6 +16618,24 @@
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_pedestal": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-04 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-01-04 05:20:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },
@@ -16512,6 +16663,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-04 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-04 05:16:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-01-04 03:26:03 +0000"
@@ -16524,15 +16699,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-01-04 05:25:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-01-04 05:19:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_buttons": {
     "criteria": {
       "has_tag_minecraft_wooden_buttons": "2025-01-04 04:54:32 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
     },
     "done": true
   },
@@ -16545,6 +16744,12 @@
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2025-01-04 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2025-01-04 05:21:50 +0000"
     },
     "done": true
   },
@@ -16566,6 +16771,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 03:26:23 +0000"
@@ -16578,15 +16789,33 @@
     },
     "done": false
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-04 03:26:03 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
+    "criteria": {
+      "has_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
   "mythicupgrades:recipes/misc/jade_upgrade_smithing_template": {
     "criteria": {
       "has_jade_upgrade_smithing_template": "2025-01-04 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },
@@ -16599,6 +16828,24 @@
   "techreborn:recipes/grinder/red_garnet_dust": {
     "criteria": {
       "has_tag_c_red_garnet_gems": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-04 05:16:40 +0000"
     },
     "done": true
   },
@@ -16638,6 +16885,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-01-04 03:24:29 +0000"
@@ -16674,9 +16927,57 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/melon_slice": {
     "criteria": {
       "has_melon_slice": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-04 05:16:40 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2025-01-04 05:22:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },
@@ -16686,9 +16987,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-04 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
     },
     "done": true
   },
@@ -16698,9 +17023,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-01-04 05:17:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2025-01-04 03:24:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-01-04 05:17:11 +0000"
     },
     "done": true
   },

@@ -16095,6 +16095,12 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
@@ -16119,15 +16125,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-01-04 05:20:05 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-01-04 05:06:26 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2025-01-04 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-04 05:20:43 +0000"
     },
     "done": true
   },
@@ -16152,6 +16188,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
     },
     "done": true
   },
@@ -16251,6 +16293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-04 05:19:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
@@ -16299,6 +16347,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
@@ -16314,6 +16368,12 @@
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-01-04 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-04 05:20:43 +0000"
     },
     "done": true
   },
@@ -16461,6 +16521,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/asphalt/slab": {
     "criteria": {
       "has_asphalt": "2025-01-04 03:38:17 +0000"
@@ -16476,6 +16548,12 @@
   "promenade:recipes/stonecutting/asphalt/polished_block": {
     "criteria": {
       "has_asphalt": "2025-01-04 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-01-04 05:20:43 +0000"
     },
     "done": true
   },
@@ -16557,6 +16635,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-01-04 05:19:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
@@ -16623,6 +16707,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/asphalt/slab": {
     "criteria": {
       "has_asphalt": "2025-01-04 03:38:17 +0000"
@@ -16632,6 +16722,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-01-04 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-01-04 05:21:26 +0000"
     },
     "done": true
   },
