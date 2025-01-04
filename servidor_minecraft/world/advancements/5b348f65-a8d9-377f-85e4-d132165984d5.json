@@ -258,12 +258,16 @@
       "minecraft:sunflower_plains": "2025-01-04 00:09:49 +0000",
       "minecraft:birch_forest": "2025-01-04 03:23:35 +0000",
       "minecraft:windswept_hills": "2025-01-04 00:49:34 +0000",
+      "minecraft:bamboo_jungle": "2025-01-04 04:27:12 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
       "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
+      "minecraft:stony_peaks": "2025-01-04 04:40:46 +0000",
+      "minecraft:sparse_jungle": "2025-01-04 04:26:46 +0000",
       "minecraft:river": "2025-01-03 01:14:00 +0000",
       "minecraft:snowy_plains": "2025-01-03 23:33:58 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:57 +0000",
       "minecraft:snowy_taiga": "2025-01-04 00:40:12 +0000",
+      "minecraft:dripstone_caves": "2025-01-04 04:31:02 +0000",
       "minecraft:swamp": "2025-01-04 03:37:49 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:25 +0000",
       "minecraft:forest": "2025-01-03 01:05:22 +0000",
@@ -686,6 +690,7 @@
       "minecraft:witch": "2025-01-04 03:38:54 +0000",
       "minecraft:husk": "2025-01-03 23:02:52 +0000",
       "minecraft:stray": "2025-01-04 01:09:44 +0000",
+      "minecraft:silverfish": "2025-01-04 04:29:59 +0000",
       "minecraft:zombie": "2025-01-03 01:10:10 +0000"
     },
     "done": false
@@ -3233,9 +3238,11 @@
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "sparse_redwoods": "2025-01-04 03:27:07 +0000",
+      "deciduous_forest": "2025-01-04 04:25:50 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
       "towering_cliffs": "2025-01-03 23:30:11 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
+      "cold_boreal_taiga": "2025-01-04 04:15:43 +0000",
       "temperate_grove": "2025-01-03 01:13:08 +0000",
       "cold_river": "2025-01-03 23:27:16 +0000",
       "prairie": "2025-01-03 02:07:06 +0000",
@@ -3268,9 +3275,11 @@
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
       "sparse_redwoods": "2025-01-04 03:27:07 +0000",
+      "deciduous_forest": "2025-01-04 04:25:50 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
       "towering_cliffs": "2025-01-03 23:30:11 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
+      "cold_boreal_taiga": "2025-01-04 04:15:43 +0000",
       "temperate_grove": "2025-01-03 01:13:08 +0000",
       "cold_river": "2025-01-03 23:27:16 +0000",
       "prairie": "2025-01-03 02:07:06 +0000",
@@ -16414,9 +16423,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/bucket_from_powder_snow_bucket": {
+    "criteria": {
+      "has_powder_snow_bucket": "2025-01-04 04:04:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_brick_slab": "2025-01-04 03:33:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-04 04:42:34 +0000"
     },
     "done": true
   },
@@ -16492,6 +16513,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-01-04 04:06:07 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/vampiric_poppet": {
     "criteria": {
       "has_item": "2025-01-04 03:48:45 +0000"
@@ -16519,6 +16546,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/jade_upgrade_smithing_template": {
+    "criteria": {
+      "has_jade_upgrade_smithing_template": "2025-01-04 04:33:02 +0000"
     },
     "done": true
   },

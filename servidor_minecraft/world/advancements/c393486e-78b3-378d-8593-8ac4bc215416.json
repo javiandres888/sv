@@ -16095,6 +16095,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-01-04 04:03:11 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_torch": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
@@ -16116,6 +16122,12 @@
   "twigs:recipes/bamboo_thatch/bamboo_thatch": {
     "criteria": {
       "has_bamboo_leaves": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-01-04 04:03:11 +0000"
     },
     "done": true
   },
@@ -16185,6 +16197,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-04 04:37:02 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/asphalt/slab": {
     "criteria": {
       "has_asphalt": "2025-01-04 03:38:17 +0000"
@@ -16200,6 +16218,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-04 04:37:02 +0000"
     },
     "done": true
   },
