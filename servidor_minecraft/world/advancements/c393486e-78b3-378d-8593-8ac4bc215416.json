@@ -15407,6 +15407,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-01-04 01:07:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2025-01-04 00:33:59 +0000"
@@ -15686,6 +15692,12 @@
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-01-04 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-01-04 01:07:05 +0000"
     },
     "done": true
   },
