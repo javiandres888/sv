@@ -3452,6 +3452,7 @@
       "cooked_beef": "2025-01-03 02:29:31 +0000",
       "apple": "2025-01-03 03:57:43 +0000",
       "potato": "2025-01-03 07:13:36 +0000",
+      "pumpkin_pie": "2025-01-04 02:31:12 +0000",
       "mutton": "2025-01-03 23:56:18 +0000",
       "bread": "2025-01-03 01:23:17 +0000",
       "golden_apple": "2025-01-03 05:08:18 +0000",
@@ -15533,6 +15534,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-01-04 02:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-04 00:51:22 +0000"
@@ -15635,6 +15642,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-01-04 02:31:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2025-01-04 01:47:15 +0000"
@@ -15695,6 +15708,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2025-01-04 02:34:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 02:25:11 +0000"
@@ -15713,6 +15732,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-01-04 02:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-01-04 00:27:30 +0000"
@@ -15722,6 +15747,18 @@
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-01-04 02:35:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-01-04 02:36:01 +0000"
     },
     "done": true
   },
@@ -15869,6 +15906,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-01-04 02:36:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-01-04 01:07:05 +0000"
@@ -15944,6 +15987,12 @@
   "regions_unexplored:recipes/redstone/magnolia_door": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 02:25:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-01-04 02:31:49 +0000"
     },
     "done": true
   },
