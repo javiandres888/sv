@@ -16328,6 +16328,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:sulfuric_bone_reef": "2025-01-04 05:16:41 +0000"
@@ -16355,6 +16361,12 @@
   "regions_unexplored:recipes/decorations/magnolia_fence": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
     },
     "done": true
   },
@@ -16610,9 +16622,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-04 06:00:26 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-01-04 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-01-04 06:00:26 +0000"
     },
     "done": true
   },
@@ -16802,6 +16826,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2025-01-04 04:06:07 +0000"
@@ -16817,6 +16847,12 @@
   "bewitchment:recipes/tools/vampiric_poppet": {
     "criteria": {
       "has_item": "2025-01-04 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
     },
     "done": true
   },
@@ -16856,6 +16892,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/slime_ball_from_sticky_piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-04 06:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-04 03:26:03 +0000"
@@ -16865,6 +16907,12 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
     "criteria": {
       "has_planks": "2025-01-04 05:20:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-04 06:00:26 +0000"
     },
     "done": true
   },
@@ -16889,6 +16937,12 @@
   "techreborn:recipes/grinder/red_garnet_dust": {
     "criteria": {
       "has_tag_c_red_garnet_gems": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_piston": "2025-01-04 06:00:26 +0000"
     },
     "done": true
   },
@@ -16928,6 +16982,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
     "criteria": {
       "has_log": "2025-01-04 05:34:02 +0000"
@@ -16958,9 +17018,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-01-04 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
     },
     "done": true
   },
@@ -17000,6 +17078,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
@@ -17036,6 +17120,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:17:11 +0000"
@@ -17045,6 +17135,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
     },
     "done": true
   },
@@ -17060,6 +17156,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-01-04 06:01:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
     "criteria": {
       "has_magnolia_planks": "2025-01-04 05:20:16 +0000"
@@ -17069,6 +17171,12 @@
   "regions_unexplored:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_willow_planks": "2025-01-04 05:41:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-01-04 06:00:19 +0000"
     },
     "done": true
   },
@@ -17093,6 +17201,18 @@
   "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:17:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-01-04 06:00:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-01-04 06:00:26 +0000"
     },
     "done": true
   },

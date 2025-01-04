@@ -1367,3 +1367,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:47:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [05:48:09] [Server thread/WARN]: kingsKAP moved wrongly!
 [05:56:10] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[05:59:07] [Server thread/INFO]: Dresan has made the advancement [The Basics]
+[06:01:41] [Server thread/WARN]: Dresan moved wrongly!
