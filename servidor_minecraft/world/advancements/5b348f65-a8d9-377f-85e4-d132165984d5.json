@@ -16520,6 +16520,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-04 06:08:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
     "criteria": {
       "has_oak_stairs": "2025-01-04 05:25:40 +0000"
@@ -16796,6 +16802,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-01-04 06:11:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_buttons": {
     "criteria": {
       "has_tag_minecraft_wooden_buttons": "2025-01-04 04:54:32 +0000"
@@ -16885,6 +16897,12 @@
       "redstone_caves": "2025-01-04 04:47:09 +0000"
     },
     "done": false
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-01-04 06:11:32 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
