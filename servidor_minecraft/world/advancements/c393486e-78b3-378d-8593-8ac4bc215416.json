@@ -19504,9 +19504,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-04 22:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-04 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-01-04 22:21:42 +0000"
     },
     "done": true
   },
@@ -19519,6 +19531,12 @@
   "croptopia:recipes/misc/apricot_jam": {
     "criteria": {
       "has_apricot": "2025-01-04 22:02:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-01-04 22:21:42 +0000"
     },
     "done": true
   },
@@ -19564,6 +19582,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-04 22:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-04 22:11:18 +0000"
@@ -19597,6 +19621,12 @@
   "croptopia:recipes/misc/apricot_sapling": {
     "criteria": {
       "has_apricot": "2025-01-04 22:02:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-04 22:21:42 +0000"
     },
     "done": true
   },
@@ -19702,6 +19732,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-04 22:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-04 22:11:18 +0000"
@@ -19789,6 +19825,12 @@
   "croptopia:recipes/salsa": {
     "criteria": {
       "has_lime": "2025-01-04 22:02:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-04 22:30:58 +0000"
     },
     "done": true
   },

@@ -2295,3 +2295,8 @@ BCLib - Nether BiomeSource (3b4b42db)
 [22:19:07] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at -2764, 203, 92, minecraft:overworld
 [22:21:33] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[22:29:21] [Server thread/INFO]: Villager class_1646['Rolande'/12184, l='ServerLevel[world]', x=-2281.70, y=75.00, z=153.62] died, message: 'Rolande was slain by Zombie'
+[22:29:21] [Server thread/INFO]: Named entity class_1646['Rolande'/12184, l='ServerLevel[world]', x=-2281.70, y=75.00, z=153.62] died: Rolande was slain by Zombie
+[22:29:37] [Server thread/INFO]: Named entity class_1641['Rolande'/13109, l='ServerLevel[world]', x=-2279.82, y=74.06, z=153.87] died: Rolande was killed by Dresan using magic
+[22:43:30] [Server thread/INFO]: Villager class_1646['Sherlene'/17701, l='ServerLevel[world]', x=-950.38, y=10.00, z=41.53] died, message: 'Sherlene was slain by Zombie'
+[22:43:30] [Server thread/INFO]: Named entity class_1646['Sherlene'/17701, l='ServerLevel[world]', x=-950.38, y=10.00, z=41.53] died: Sherlene was slain by Zombie
