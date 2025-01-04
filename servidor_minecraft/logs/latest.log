@@ -626,3 +626,21 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:59:45] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [03:00:05] [Server thread/INFO]: kingsKAP was shot by Mutant Skeleton
 [03:00:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[03:02:28] [Server thread/WARN]: Block entity minecells:doorway @ class_2338{x=-1189, y=68, z=-243} state Block{supplementaries:structure_temp} invalid for ticking:
+[03:02:28] [pool-12-thread-17/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert]] from pos class_2338{x=-1189, y=69, z=-245}
+[03:02:49] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03:04:59] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at -1577, 65, -392, minecraft:overworld
+[03:09:46] [Server thread/INFO]: kingsKAP has made the advancement [Unknown Technology]
+[03:10:54] [pool-12-thread-18/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains]] from pos class_2338{x=-2011, y=68, z=-229}
+[03:10:55] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-2011, y=68, z=-229} but found not block entity block Block{minecraft:air} at location
+[03:10:55] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-2011, y=68, z=-229}
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:

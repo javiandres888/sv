@@ -647,6 +647,7 @@
       "pumpkin_pie": "2025-01-03 23:46:33 +0000",
       "bread": "2025-01-03 01:07:15 +0000",
       "rotten_flesh": "2025-01-03 01:23:29 +0000",
+      "salmon": "2025-01-04 03:04:11 +0000",
       "cooked_chicken": "2025-01-03 01:51:21 +0000",
       "mushroom_stew": "2025-01-03 23:02:30 +0000",
       "carrot": "2025-01-03 23:51:17 +0000"
@@ -3218,6 +3219,7 @@
       "poppy_fields": "2025-01-03 23:35:45 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
+      "rocky_meadow": "2025-01-04 03:07:42 +0000",
       "frozen_pine_taiga": "2025-01-03 23:58:41 +0000",
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
@@ -3246,6 +3248,7 @@
       "poppy_fields": "2025-01-03 23:35:45 +0000",
       "grassy_beach": "2025-01-03 22:42:01 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
+      "rocky_meadow": "2025-01-04 03:07:42 +0000",
       "frozen_pine_taiga": "2025-01-03 23:58:41 +0000",
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
@@ -16007,11 +16010,11 @@
     },
     "done": true
   },
-  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+  "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "has_item": "2025-01-04 02:46:45 +0000"
+      "phantom": "2025-01-04 02:39:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "mcda:recipes/base_armors/phantom_armor_helmet": {
     "criteria": {
@@ -16025,15 +16028,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
-      "phantom": "2025-01-04 02:39:56 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-01-04 02:50:23 +0000"
+      "has_item": "2025-01-04 02:46:45 +0000"
     },
     "done": true
   },
@@ -16046,6 +16043,108 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-01-04 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-04 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_jam": {
+    "criteria": {
+      "has_apricot": "2025-01-04 03:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_sapling": {
+    "criteria": {
+      "has_apricot": "2025-01-04 03:03:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pear_sapling": {
+    "criteria": {
+      "has_pear": "2025-01-04 03:03:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-01-04 03:04:59 +0000"
     },
     "done": true
   },
