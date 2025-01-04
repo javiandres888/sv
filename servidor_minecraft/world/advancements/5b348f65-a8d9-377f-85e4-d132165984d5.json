@@ -255,6 +255,7 @@
       "minecraft:taiga": "2025-01-03 23:07:49 +0000",
       "minecraft:deep_ocean": "2025-01-03 22:46:18 +0000",
       "minecraft:frozen_river": "2025-01-03 23:32:44 +0000",
+      "minecraft:sunflower_plains": "2025-01-04 00:09:49 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
       "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
       "minecraft:river": "2025-01-03 01:14:00 +0000",
@@ -13692,6 +13693,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/black_coffin": {
+    "criteria": {
+      "has_item": "2025-01-04 00:16:37 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartypalm_stairs": {
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:57 +0000"
@@ -13895,6 +13902,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-03 22:59:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+    "criteria": {
+      "has_poppy_bush": "2025-01-04 00:15:29 +0000"
     },
     "done": true
   },
@@ -14106,6 +14119,12 @@
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_salmon_poppy_bush": {
+    "criteria": {
+      "has_salmon_poppy_bush": "2025-01-04 00:15:37 +0000"
     },
     "done": true
   },

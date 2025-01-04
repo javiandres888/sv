@@ -4331,6 +4331,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-04 00:09:40 +0000",
       "in_better_spider_dungeon": "2025-01-03 01:34:50 +0000"
     },
     "done": false
@@ -14265,6 +14266,18 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-01-04 00:08:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-01-04 00:08:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-03 22:35:30 +0000"
@@ -14781,6 +14794,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-01-04 00:08:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
     "criteria": {
       "has_bowl": "2025-01-03 23:18:06 +0000"
@@ -14851,6 +14870,12 @@
   "mcda:recipes/base_armors/scale_mail_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-01-03 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-04 00:08:13 +0000"
     },
     "done": true
   },
@@ -15107,6 +15132,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-04 00:09:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-01-03 22:37:19 +0000"
@@ -15116,6 +15147,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "revenant": "2025-01-03 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-04 00:08:13 +0000"
     },
     "done": true
   },
@@ -15153,6 +15190,12 @@
     "criteria": {
       "has_palm_planks": "2025-01-03 22:39:55 +0000",
       "has_the_recipe": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-04 00:08:13 +0000"
     },
     "done": true
   },
@@ -15195,6 +15238,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-01-03 23:58:26 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-04 00:08:13 +0000"
     },
     "done": true
   },
