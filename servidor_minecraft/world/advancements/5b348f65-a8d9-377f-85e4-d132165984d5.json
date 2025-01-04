@@ -678,6 +678,7 @@
       "minecraft:creeper": "2025-01-03 03:07:13 +0000",
       "minecraft:slime": "2025-01-03 02:32:47 +0000",
       "minecraft:husk": "2025-01-03 23:02:52 +0000",
+      "minecraft:stray": "2025-01-04 01:09:44 +0000",
       "minecraft:zombie": "2025-01-03 01:10:10 +0000"
     },
     "done": false
@@ -14157,6 +14158,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-01-04 01:13:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mushroom_10": {
     "criteria": {
       "has_alt_item": "2025-01-03 23:42:34 +0000"
@@ -14537,6 +14544,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-01-04 01:12:49 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice": {
     "criteria": {
       "has_blue_ice": "2025-01-04 00:40:21 +0000"
@@ -14883,6 +14896,12 @@
   "promenade:recipes/crafting/palm/chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-04 01:12:49 +0000"
     },
     "done": true
   },
