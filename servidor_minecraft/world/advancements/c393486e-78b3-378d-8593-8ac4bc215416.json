@@ -17562,6 +17562,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-01-04 06:51:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-04 05:48:25 +0000"
@@ -17687,6 +17693,12 @@
       "got_nether_reed": "2025-01-04 05:50:49 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-04 06:45:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
