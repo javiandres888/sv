@@ -16218,6 +16218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:25:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2025-01-04 05:21:26 +0000"
@@ -16350,6 +16356,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-01-04 06:30:55 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_planks": {
     "criteria": {
       "has_nether_reed_stem": "2025-01-04 05:50:49 +0000"
@@ -16407,6 +16419,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-04 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-04 06:30:55 +0000"
     },
     "done": true
   },
@@ -16860,6 +16878,12 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-01-04 06:30:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
@@ -16881,6 +16905,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-04 05:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:25:36 +0000"
     },
     "done": true
   },
@@ -17109,6 +17139,12 @@
   "regions_unexplored:recipes/building_blocks/pine_planks": {
     "criteria": {
       "has_logs": "2025-01-04 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:25:36 +0000"
     },
     "done": true
   },
@@ -17415,6 +17451,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/tungsten_nugget": {
     "criteria": {
       "has_tungsten_ingot": "2025-01-04 05:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 06:25:36 +0000"
     },
     "done": true
   },

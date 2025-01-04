@@ -1375,3 +1375,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:14:31] [Server thread/WARN]: Dresan moved wrongly!
 [06:21:39] [Server thread/WARN]: Dresan moved wrongly!
 [06:21:40] [Server thread/WARN]: Dresan moved wrongly!
+[06:30:14] [Server thread/WARN]: Dresan moved wrongly!
+[06:35:38] [Server thread/INFO]: kingsKAP was blown up by Night Lich
+[06:35:40] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[06:36:19] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 3341, 68, -988, minecraft:overworld
