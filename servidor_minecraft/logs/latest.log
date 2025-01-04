@@ -544,3 +544,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:19:32] [Server thread/INFO]: Dresan was slain by Hexblade Magister
 [02:19:35] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [02:20:11] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at -609, 27, 163, minecraft:overworld
+[02:27:48] [Server thread/INFO]: Dresan was shot by Mutant Skeleton
+[02:27:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[02:29:48] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at -933, 70, 2, minecraft:overworld
