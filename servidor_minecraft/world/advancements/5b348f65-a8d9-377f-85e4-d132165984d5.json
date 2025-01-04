@@ -677,6 +677,7 @@
       "minecraft:spider": "2025-01-03 01:07:26 +0000",
       "minecraft:creeper": "2025-01-03 03:07:13 +0000",
       "minecraft:slime": "2025-01-03 02:32:47 +0000",
+      "minecraft:phantom": "2025-01-04 02:39:56 +0000",
       "minecraft:husk": "2025-01-03 23:02:52 +0000",
       "minecraft:stray": "2025-01-04 01:09:44 +0000",
       "minecraft:zombie": "2025-01-03 01:10:10 +0000"
@@ -16003,6 +16004,48 @@
   "mcda:recipes/base_armors/soul_robe_chestplate": {
     "criteria": {
       "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-01-04 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-01-04 02:39:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-01-04 02:39:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-04 02:39:56 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-04 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-01-04 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-01-04 02:46:45 +0000"
     },
     "done": true
   },

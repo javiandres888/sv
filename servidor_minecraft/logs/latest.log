@@ -564,3 +564,32 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:36:01] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: kingsKAP -> Global
 [02:36:01] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player kingsKAP. Claiming: GRAVE / Robbing: INVENTORY
 [02:36:13] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[02:43:45] [Server thread/INFO]: kingsKAP was blown up by Skeleton Creeper
+[02:43:45] [Netty Epoll Server IO #1/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02:43:45] [Netty Epoll Server IO #1/ERROR]: Combo count: 5 is dual wielding: false
+[02:43:45] [Netty Epoll Server IO #1/ERROR]: Main-hand stack: 0 air
+[02:43:45] [Netty Epoll Server IO #1/ERROR]: Off-hand stack: 0 air
+[02:43:45] [Netty Epoll Server IO #1/ERROR]: Selected slot server: 0 | client: 0
+[02:43:48] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[02:44:09] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at -466, 68, 218, minecraft:overworld
+[02:50:49] [Server thread/INFO]: [Handshake] Sending channel query
+[02:50:50] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[02:50:50] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[02:50:50] [Server thread/INFO]: kingsKAP lost connection: You logged in from another location
+[02:50:50] [Server thread/INFO]: kingsKAP left the game
+[02:50:50] [Server thread/INFO]: remove player wand
+[02:50:50] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[02:50:50] [Server thread/INFO]: kingsKAP[/[0:0:0:0:0:0:0:1%0]:53996] logged in with entity id 159652 at (-536.2576338819509, 70.0, 212.85476869434376)
+[02:50:50] [Server thread/INFO]: Sending server config values to client
+[02:50:50] [Server thread/INFO]: Syncing config to kingsKAP (5b348f65-a8d9-377f-85e4-d132165984d5)
+[02:50:50] [Server thread/INFO]: Loading config from file...
+[02:50:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:50:50] [Server thread/INFO]: kingsKAP joined the game
+[02:50:50] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[02:50:50] [Server thread/INFO]: PLAYER_JOIN
+[02:50:50] [Server thread/INFO]: add_player wand
+[02:50:50] [Server thread/INFO]: config sent
+[02:50:52] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[02:50:53] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: kingsKAP -> Global
+[02:50:53] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player kingsKAP. Claiming: GRAVE / Robbing: INVENTORY
+[02:51:05] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
