@@ -646,8 +646,10 @@
       "pine_taiga": "2025-01-03 04:29:47 +0000",
       "autumnal_maple_forest": "2025-01-03 23:08:41 +0000",
       "muddy_river": "2025-01-03 22:54:07 +0000",
+      "prismachasm": "2025-01-04 07:33:49 +0000",
       "willow_forest": "2025-01-03 02:11:37 +0000",
       "frozen_tundra": "2025-01-04 00:06:24 +0000",
+      "redstone_caves": "2025-01-04 07:34:43 +0000",
       "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
@@ -18092,9 +18094,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2025-01-04 07:33:58 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_boots": {
     "criteria": {
       "has_phantom_skin": "2025-01-04 07:05:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-01-04 07:33:58 +0000"
     },
     "done": true
   },
@@ -18103,6 +18117,13 @@
       "kill_horde": "2025-01-04 07:11:19 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-01-04 07:34:43 +0000",
+      "prismachasm": "2025-01-04 07:33:49 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/decorations/acacia_shrub": {
     "criteria": {

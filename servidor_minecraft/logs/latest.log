@@ -2346,3 +2346,11 @@ BCLib - Nether BiomeSource (1a6296b)
 [07:30:46] [Server thread/INFO]: kingsKAP has made the advancement [Welcome To The Machine]
 [07:30:57] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
 [07:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[07:34:54] [Server thread/INFO]: kingsKAP lost connection: Timed out
+[07:34:54] [Server thread/INFO]: kingsKAP left the game
+[07:34:54] [Server thread/INFO]: remove player wand
+[07:34:54] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[07:36:57] [Server thread/INFO]: Dresan lost connection: Timed out
+[07:36:57] [Server thread/INFO]: Dresan left the game
+[07:36:57] [Server thread/INFO]: remove player wand
+[07:36:57] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
