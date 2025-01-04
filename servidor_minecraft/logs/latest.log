@@ -532,3 +532,15 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [01:47:04] [Server thread/INFO]: kingsKAP has made the advancement [Zip Zap]
 [02:00:55] [Server thread/INFO]: Villager class_1646['Harold'/141700, l='ServerLevel[world]', x=-1177.41, y=225.00, z=7.02] died, message: 'Harold hit the ground too hard'
 [02:00:55] [Server thread/INFO]: Named entity class_1646['Harold'/141700, l='ServerLevel[world]', x=-1177.41, y=225.00, z=7.02] died: Harold fell from a high place
+[02:15:06] [Server thread/INFO]: kingsKAP lost connection: Timed out
+[02:15:06] [Server thread/INFO]: kingsKAP left the game
+[02:15:06] [Server thread/INFO]: remove player wand
+[02:15:06] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[02:16:05] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:16:28] [Server thread/INFO]: Dresan has made the advancement [Shadow Wizard Money Gang]
+[02:16:35] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:19:32] [Server thread/INFO]: Dresan was slain by Hexblade Magister
+[02:19:35] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[02:20:11] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at -609, 27, 163, minecraft:overworld

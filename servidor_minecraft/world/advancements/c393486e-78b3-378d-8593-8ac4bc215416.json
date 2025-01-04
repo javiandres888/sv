@@ -15448,6 +15448,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-01-04 02:10:23 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/jungle_wine_rack_small": {
     "criteria": {
       "has_jungle_planks": "2025-01-04 00:33:59 +0000"
@@ -15463,6 +15469,12 @@
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-01-04 00:33:59 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/hexblade": {
+    "criteria": {
+      "requirement": "2025-01-04 02:16:28 +0000"
     },
     "done": true
   },

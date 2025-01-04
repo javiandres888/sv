@@ -13341,6 +13341,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2025-01-03 22:44:14 +0000"
@@ -13368,6 +13374,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-01-04 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -13480,6 +13492,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_couch": {
     "criteria": {
       "has_dark_oak_couch": "2025-01-03 23:22:25 +0000"
@@ -13549,6 +13567,12 @@
   "mcda:recipes/unique_armors/archers_boots": {
     "criteria": {
       "has_leather_boots": "2025-01-03 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -13709,6 +13733,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 02:02:12 +0000"
@@ -13782,6 +13812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-01-04 02:05:50 +0000"
@@ -13815,6 +13851,12 @@
   "betternether:recipes/decorations/basalt_furnace": {
     "criteria": {
       "has_basalt": "2025-01-04 01:01:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -13875,6 +13917,12 @@
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-01-04 01:50:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -14047,6 +14095,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/redstone/trapped_elder_chest": {
     "criteria": {
       "has_item": "2025-01-03 22:49:59 +0000"
@@ -14068,6 +14122,12 @@
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2025-01-03 22:59:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -14278,6 +14338,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_encrusted_anchor": {
     "criteria": {
       "has_gold_block": "2025-01-04 01:50:05 +0000"
@@ -14356,6 +14422,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-03 22:59:32 +0000"
@@ -14431,6 +14503,18 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -14983,6 +15067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 02:02:12 +0000"
@@ -15082,6 +15172,12 @@
   "beachparty:palm_wood": {
     "criteria": {
       "has_palm_wood": "2025-01-03 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
@@ -15371,6 +15467,12 @@
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-01-03 22:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 02:10:16 +0000"
     },
     "done": true
   },
