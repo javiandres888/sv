@@ -2,9 +2,7 @@
 	id: "c393486e-78b3-378d-8593-8ac4bc215416"
 	type: "player"
 	player_name: "Dresan"
-	ranks: {
-		c393486e-78b3-378d-8593-8ac4bc215416: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Dresan"
 		"ftbteams:description": ""

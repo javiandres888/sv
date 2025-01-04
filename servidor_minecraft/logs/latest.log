@@ -526,3 +526,6 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [01:21:57] [Server thread/INFO]: kingsKAP has made the advancement [Novice Spellcaster]
 [01:21:58] [Server thread/INFO]: kingsKAP has made the advancement [Create: Estrogen]
 [01:26:56] [Server thread/INFO]: kingsKAP has made the advancement [Source of Evil]
+[01:31:17] [Server thread/WARN]: Dresan moved wrongly!
+[01:35:42] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[01:35:45] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.

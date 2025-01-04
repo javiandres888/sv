@@ -1,0 +1,22 @@
+{
+	id: "524f809c-21f8-476b-b614-f3168c594267"
+	type: "party"
+	owner: "c393486e-78b3-378d-8593-8ac4bc215416"
+	ranks: {
+		c393486e-78b3-378d-8593-8ac4bc215416: "owner"
+		5b348f65-a8d9-377f-85e4-d132165984d5: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Dresan's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735954542565L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Dresan\"}]}" }
+		{ from: "c393486e-78b3-378d-8593-8ac4bc215416", date: 1735954542569L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"kingsKAP\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735954545298L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"kingsKAP\"}]}" }
+	]
+	extra: { }
+}
