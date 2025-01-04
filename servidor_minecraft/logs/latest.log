@@ -1361,3 +1361,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:36:42] [Server thread/INFO]: Dresan has made the advancement [Refined Iron]
 [05:40:23] [Server thread/WARN]: kingsKAP moved wrongly!
 [05:40:58] [Server thread/INFO]: Dresan has made the advancement [Heart of the Machine]
+[05:47:12] [Server thread/WARN]: Dresan moved wrongly!
+[05:47:13] [Server thread/WARN]: Dresan moved wrongly!
+[05:47:14] [Server thread/WARN]: Dresan moved wrongly!
+[05:47:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[05:48:09] [Server thread/WARN]: kingsKAP moved wrongly!
+[05:56:10] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
