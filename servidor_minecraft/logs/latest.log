@@ -644,3 +644,24 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
 [03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
 [03:11:21] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[03:15:51] [Server thread/INFO]: kingsKAP lost connection: Timed out
+[03:15:51] [Server thread/INFO]: kingsKAP left the game
+[03:15:51] [Server thread/INFO]: remove player wand
+[03:15:51] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[03:16:05] [Server thread/INFO]: [Handshake] Sending channel query
+[03:16:05] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[03:16:05] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[03:16:05] [Server thread/INFO]: kingsKAP[/[0:0:0:0:0:0:0:1%0]:59788] logged in with entity id 183555 at (-2430.699999988079, 63.0, -345.12894293903025)
+[03:16:05] [Server thread/INFO]: Sending server config values to client
+[03:16:05] [Server thread/INFO]: Syncing config to kingsKAP (5b348f65-a8d9-377f-85e4-d132165984d5)
+[03:16:05] [Server thread/INFO]: Loading config from file...
+[03:16:06] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:16:06] [Server thread/INFO]: kingsKAP joined the game
+[03:16:06] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[03:16:06] [Server thread/INFO]: PLAYER_JOIN
+[03:16:06] [Server thread/INFO]: add_player wand
+[03:16:06] [Server thread/INFO]: config sent
+[03:16:08] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[03:16:10] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: kingsKAP -> Global
+[03:16:10] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player kingsKAP. Claiming: GRAVE / Robbing: INVENTORY
+[03:16:22] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
