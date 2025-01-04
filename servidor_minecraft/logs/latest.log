@@ -2310,3 +2310,7 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [23:26:09] [Server thread/WARN]: Dresan moved wrongly!
 [23:36:09] [Server thread/WARN]: Dresan moved wrongly!
 [23:36:10] [Server thread/WARN]: Dresan moved wrongly!
+[23:39:18] [Server thread/INFO]: No return portal found
+[23:39:18] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[23:39:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[23:43:48] [Server thread/INFO]: Dresan has made the advancement [Hidden in the Depths]
