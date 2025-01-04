@@ -636,6 +636,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-01-04 03:26:28 +0000",
       "silver_birch_forest": "2025-01-03 23:08:21 +0000",
       "shrubland": "2025-01-03 01:29:13 +0000",
       "pine_taiga": "2025-01-03 04:29:47 +0000",
@@ -646,10 +647,13 @@
       "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
+      "rocky_meadow": "2025-01-04 03:25:25 +0000",
       "frozen_pine_taiga": "2025-01-03 23:35:09 +0000",
       "maple_forest": "2025-01-03 23:07:50 +0000",
       "magnolia_highlands": "2025-01-03 02:16:12 +0000",
+      "deciduous_forest": "2025-01-04 03:28:04 +0000",
       "boreal_forest": "2025-01-03 22:47:32 +0000",
+      "bamboo_forest": "2025-01-04 03:24:31 +0000",
       "temperate_grove": "2025-01-03 01:16:59 +0000",
       "cold_river": "2025-01-03 23:20:11 +0000",
       "grassland": "2025-01-03 01:45:08 +0000",
@@ -663,6 +667,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-01-04 03:26:28 +0000",
       "silver_birch_forest": "2025-01-03 23:08:21 +0000",
       "shrubland": "2025-01-03 01:29:13 +0000",
       "pine_taiga": "2025-01-03 04:29:47 +0000",
@@ -673,10 +678,13 @@
       "poppy_fields": "2025-01-03 23:30:34 +0000",
       "grassy_beach": "2025-01-03 04:03:31 +0000",
       "blackwood_taiga": "2025-01-03 22:43:29 +0000",
+      "rocky_meadow": "2025-01-04 03:25:25 +0000",
       "frozen_pine_taiga": "2025-01-03 23:35:09 +0000",
       "maple_forest": "2025-01-03 23:07:50 +0000",
       "magnolia_highlands": "2025-01-03 02:16:12 +0000",
+      "deciduous_forest": "2025-01-04 03:28:04 +0000",
       "boreal_forest": "2025-01-03 22:47:32 +0000",
+      "bamboo_forest": "2025-01-04 03:24:31 +0000",
       "temperate_grove": "2025-01-03 01:16:59 +0000",
       "cold_river": "2025-01-03 23:20:11 +0000",
       "grassland": "2025-01-03 01:45:08 +0000",
@@ -3458,6 +3466,7 @@
       "golden_apple": "2025-01-03 05:08:18 +0000",
       "rotten_flesh": "2025-01-03 01:30:44 +0000",
       "cooked_chicken": "2025-01-03 01:44:31 +0000",
+      "mushroom_stew": "2025-01-04 03:33:06 +0000",
       "carrot": "2025-01-04 00:53:00 +0000"
     },
     "done": false
@@ -16071,6 +16080,72 @@
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-01-04 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-04 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 03:24:57 +0000"
     },
     "done": true
   },

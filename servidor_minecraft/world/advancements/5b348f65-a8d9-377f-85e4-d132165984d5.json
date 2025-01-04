@@ -256,6 +256,7 @@
       "minecraft:deep_ocean": "2025-01-03 22:46:18 +0000",
       "minecraft:frozen_river": "2025-01-03 23:32:44 +0000",
       "minecraft:sunflower_plains": "2025-01-04 00:09:49 +0000",
+      "minecraft:birch_forest": "2025-01-04 03:23:35 +0000",
       "minecraft:windswept_hills": "2025-01-04 00:49:34 +0000",
       "minecraft:beach": "2025-01-03 01:07:14 +0000",
       "minecraft:dark_forest": "2025-01-03 23:06:57 +0000",
@@ -263,6 +264,7 @@
       "minecraft:snowy_plains": "2025-01-03 23:33:58 +0000",
       "minecraft:stony_shore": "2025-01-03 22:51:57 +0000",
       "minecraft:snowy_taiga": "2025-01-04 00:40:12 +0000",
+      "minecraft:swamp": "2025-01-04 03:37:49 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:25 +0000",
       "minecraft:forest": "2025-01-03 01:05:22 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:22 +0000",
@@ -271,6 +273,7 @@
       "minecraft:deep_frozen_ocean": "2025-01-04 00:55:54 +0000",
       "minecraft:windswept_forest": "2025-01-04 00:49:23 +0000",
       "minecraft:ocean": "2025-01-03 22:40:10 +0000",
+      "minecraft:jungle": "2025-01-04 03:25:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:51 +0000",
       "minecraft:snowy_beach": "2025-01-03 23:32:48 +0000",
       "minecraft:plains": "2025-01-03 23:35:27 +0000"
@@ -3212,6 +3215,7 @@
       "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
       "pine_taiga": "2025-01-03 22:52:27 +0000",
+      "bayou": "2025-01-04 03:37:26 +0000",
       "autumnal_maple_forest": "2025-01-03 23:08:44 +0000",
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
@@ -3225,6 +3229,7 @@
       "frozen_pine_taiga": "2025-01-03 23:58:41 +0000",
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
+      "sparse_redwoods": "2025-01-04 03:27:07 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
       "towering_cliffs": "2025-01-03 23:30:11 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
@@ -3233,6 +3238,7 @@
       "prairie": "2025-01-03 02:07:06 +0000",
       "grassland": "2025-01-03 07:11:17 +0000",
       "gravel_beach": "2025-01-03 22:47:41 +0000",
+      "redwoods": "2025-01-04 03:26:50 +0000",
       "golden_boreal_taiga": "2025-01-03 22:51:52 +0000",
       "lupine_plains": "2025-01-03 22:43:13 +0000"
     },
@@ -3243,6 +3249,7 @@
       "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
       "pine_taiga": "2025-01-03 22:52:27 +0000",
+      "bayou": "2025-01-04 03:37:26 +0000",
       "autumnal_maple_forest": "2025-01-03 23:08:44 +0000",
       "muddy_river": "2025-01-03 22:54:08 +0000",
       "willow_forest": "2025-01-03 06:29:11 +0000",
@@ -3256,6 +3263,7 @@
       "frozen_pine_taiga": "2025-01-03 23:58:41 +0000",
       "maple_forest": "2025-01-03 23:08:02 +0000",
       "magnolia_highlands": "2025-01-03 06:29:21 +0000",
+      "sparse_redwoods": "2025-01-04 03:27:07 +0000",
       "boreal_forest": "2025-01-03 22:47:40 +0000",
       "towering_cliffs": "2025-01-03 23:30:11 +0000",
       "bamboo_forest": "2025-01-03 22:30:46 +0000",
@@ -3264,6 +3272,7 @@
       "prairie": "2025-01-03 02:07:06 +0000",
       "grassland": "2025-01-03 07:11:17 +0000",
       "gravel_beach": "2025-01-03 22:47:41 +0000",
+      "redwoods": "2025-01-04 03:26:50 +0000",
       "golden_boreal_taiga": "2025-01-03 22:51:52 +0000",
       "lupine_plains": "2025-01-03 22:43:13 +0000"
     },
@@ -16299,9 +16308,261 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-01-04 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-04 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/brown_dye_from_cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-01-04 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-01-04 03:21:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_pressure_plates": {
+    "criteria": {
+      "has_tag_minecraft_wooden_pressure_plates": "2025-01-04 03:24:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-01-04 03:33:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2025-01-04 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-04 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-04 03:36:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2025-01-04 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-01-04 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_pressure_plates": {
+    "criteria": {
+      "has_tag_minecraft_wooden_pressure_plates": "2025-01-04 03:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-04 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-04 03:36:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-04 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-01-04 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-01-04 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-04 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_chiseled_polished_blackstone": "2025-01-04 03:24:17 +0000"
     },
     "done": true
   },
