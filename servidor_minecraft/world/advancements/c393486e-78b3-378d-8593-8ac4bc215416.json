@@ -16134,6 +16134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-04 06:19:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-04 05:08:39 +0000"
@@ -16566,6 +16572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-04 06:19:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-01-04 06:05:55 +0000"
@@ -16671,6 +16683,12 @@
   "betternether:recipes/misc/sugar": {
     "criteria": {
       "has_nether_reed_stem": "2025-01-04 05:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-04 06:19:27 +0000"
     },
     "done": true
   },
@@ -16863,6 +16881,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-04 05:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-04 06:19:27 +0000"
     },
     "done": true
   },
@@ -17121,6 +17145,12 @@
   "techreborn:recipes/crafting_table/cable/tin_cable": {
     "criteria": {
       "has_tin_ingot": "2025-01-04 05:36:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-01-04 06:17:19 +0000"
     },
     "done": true
   },
