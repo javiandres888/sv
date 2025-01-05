@@ -249,3 +249,11 @@
 [04:13:06] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
 [04:22:59] [Server thread/WARN]: kingsKAP moved wrongly!
 [04:23:00] [Server thread/WARN]: kingsKAP moved wrongly!
+[04:32:13] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 3354, 68, -919, minecraft:overworld
+[04:33:04] [Server thread/INFO]: kingsKAP was blown up by Night Lich
+[04:33:06] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[04:34:06] [Server thread/WARN]: kingsKAP moved wrongly!
+[04:34:30] [Server thread/INFO]: kingsKAP claimed a grave belonging to kingsKAP at 3292, 65, -988, minecraft:overworld
+[04:40:23] [Server thread/INFO]: Dresan was blown up by Night Lich
+[04:40:25] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[04:42:58] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at 3305, 69, -1092, minecraft:overworld

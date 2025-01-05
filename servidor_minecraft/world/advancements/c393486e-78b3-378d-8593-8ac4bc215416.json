@@ -21353,6 +21353,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-05 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-05 04:34:00 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-01-05 04:15:08 +0000"
@@ -21371,11 +21383,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-05 04:34:00 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-01-05 04:15:08 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-01-05 04:34:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
