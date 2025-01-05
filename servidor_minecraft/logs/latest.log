@@ -6,3 +6,9 @@
 [00:04:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [00:04:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [00:05:51] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at 8, 34, 42, minecraft:the_nether
+[00:18:11] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[00:23:07] [Server thread/INFO]: Dresan lost connection: Disconnected
+[00:23:07] [Server thread/INFO]: Dresan left the game
+[00:23:07] [Server thread/INFO]: remove player wand
+[00:23:07] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
+[00:23:07] [Server thread/WARN]: handleDisconnection() called twice
