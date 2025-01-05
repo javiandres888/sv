@@ -2627,3 +2627,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:10:39] [Server thread/INFO]: Dresan has completed the challenge [Expansion Unlock: Void's Invasion]
 [06:10:39] [Server thread/INFO]: kingsKAP has completed the challenge [Expansion Unlock: Void's Invasion]
 [06:10:42] [Server thread/INFO]: kingsKAP has completed the challenge [Steeped in Strength]
+[06:13:40] [Server thread/INFO]: Dresan has completed the challenge [Steeped in Strength]
+[06:15:44] [Worker-Main-1/WARN]: Skipping Entity with id betternether:chair
+[06:16:22] [Server thread/INFO]: Dresan has made the advancement [A Terrible Fortress]
+[06:16:27] [Server thread/INFO]: kingsKAP has made the advancement [A Terrible Fortress]
+[06:16:34] [Server thread/INFO]: Dresan has made the advancement [Into Fire]
+[06:17:02] [Server thread/INFO]: Dresan has made the advancement [Maybe Don't Touch it]
+[06:17:38] [Server thread/INFO]: kingsKAP has made the advancement [Into Fire]
+[06:18:34] [Server thread/INFO]: kingsKAP has made the advancement [Stare Into Despair]
+[06:18:34] [Server thread/INFO]: kingsKAP has made the advancement [The Beginning of An Adventure]
