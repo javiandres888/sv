@@ -20945,6 +20945,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-01-05 03:31:41 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_button": {
     "criteria": {
       "has_copper_block": "2025-01-05 02:31:36 +0000"
