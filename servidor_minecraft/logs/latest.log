@@ -227,3 +227,23 @@
 [03:52:03] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
 [03:53:18] [Server thread/INFO]: No return portal found
 [03:53:18] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[04:03:39] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[04:04:03] [Server thread/INFO]: [Handshake] Sending channel query
+[04:04:03] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[04:04:03] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[04:04:03] [Server thread/INFO]: Dresan[/[0:0:0:0:0:0:0:1%0]:52842] logged in with entity id 4607163 at (-901.575354921293, 47.0, -40.675218906957255)
+[04:04:03] [Server thread/INFO]: Sending server config values to client
+[04:04:03] [Server thread/INFO]: Syncing config to Dresan (c393486e-78b3-378d-8593-8ac4bc215416)
+[04:04:03] [Server thread/INFO]: Loading config from file...
+[04:04:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:04:03] [Server thread/INFO]: Dresan joined the game
+[04:04:03] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
+[04:04:03] [Server thread/INFO]: PLAYER_JOIN
+[04:04:03] [Server thread/INFO]: add_player wand
+[04:04:03] [Server thread/INFO]: config sent
+[04:04:04] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[04:04:04] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Dresan -> Global
+[04:04:04] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Dresan. Claiming: GRAVE / Robbing: INVENTORY
+[04:04:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[04:13:04] [Server thread/INFO]: kingsKAP was blown up by Night Lich
+[04:13:06] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
