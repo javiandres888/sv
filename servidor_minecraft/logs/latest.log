@@ -2648,3 +2648,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:58:30] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
 [06:58:34] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
 [06:59:47] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[07:11:45] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=1400, minY=22, minZ=232, maxX=1560, maxY=96, maxZ=392}

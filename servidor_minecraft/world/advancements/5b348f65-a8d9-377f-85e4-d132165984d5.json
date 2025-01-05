@@ -655,6 +655,7 @@
       "beef": "2025-01-04 00:03:13 +0000",
       "apple": "2025-01-03 23:04:08 +0000",
       "pumpkin_pie": "2025-01-03 23:46:33 +0000",
+      "mutton": "2025-01-05 07:04:02 +0000",
       "bread": "2025-01-03 01:07:15 +0000",
       "golden_apple": "2025-01-04 06:46:48 +0000",
       "rotten_flesh": "2025-01-03 01:23:29 +0000",
@@ -693,6 +694,7 @@
       "minecraft:creeper": "2025-01-03 03:07:13 +0000",
       "minecraft:slime": "2025-01-03 02:32:47 +0000",
       "minecraft:phantom": "2025-01-04 02:39:56 +0000",
+      "minecraft:zombified_piglin": "2025-01-05 07:06:16 +0000",
       "minecraft:witch": "2025-01-04 03:38:54 +0000",
       "minecraft:wither_skeleton": "2025-01-05 06:35:11 +0000",
       "minecraft:husk": "2025-01-03 23:02:52 +0000",
@@ -18176,6 +18178,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
@@ -18322,6 +18330,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-01-05 06:19:21 +0000"
@@ -18406,6 +18420,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
@@ -18433,6 +18453,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-05 06:31:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-01-05 07:04:13 +0000"
     },
     "done": true
   },
@@ -18535,6 +18561,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 06:23:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
     },
     "done": true
   },
@@ -18670,6 +18702,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-05 06:16:27 +0000"
@@ -18706,6 +18744,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
@@ -18727,6 +18771,12 @@
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 07:06:41 +0000"
     },
     "done": true
   },
@@ -18769,6 +18819,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 07:06:41 +0000"
     },
     "done": true
   },
@@ -18934,6 +18990,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_stairs_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_small": "2025-01-05 06:41:01 +0000"
@@ -18994,9 +19056,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wart_wall": {
     "criteria": {
       "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
     },
     "done": true
   },
@@ -19030,9 +19110,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
     },
     "done": true
   },
@@ -19069,6 +19161,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 07:06:41 +0000"
     },
     "done": true
   },
@@ -19150,6 +19248,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-01-05 07:08:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
@@ -19192,6 +19296,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
@@ -19228,9 +19344,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-01-05 06:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 07:06:41 +0000"
     },
     "done": true
   },
@@ -19249,6 +19377,12 @@
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_upgrade_smithing_template": {
+    "criteria": {
+      "has_sapphire_upgrade_smithing_template": "2025-01-05 07:08:55 +0000"
     },
     "done": true
   },
@@ -19315,6 +19449,12 @@
   "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
     "criteria": {
       "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-05 07:04:13 +0000"
     },
     "done": true
   },
@@ -19483,6 +19623,12 @@
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-05 07:06:41 +0000"
     },
     "done": true
   },
