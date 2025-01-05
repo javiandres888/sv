@@ -20845,6 +20845,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_andesite_slab": "2025-01-05 02:33:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
@@ -20854,6 +20860,12 @@
   "handcrafted:recipes/misc/terracotta_wide_pot": {
     "criteria": {
       "has_terracotta_wide_pot": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
     },
     "done": true
   },
@@ -20881,9 +20893,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/host_armor_trim_smithing_template": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_button": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite_slab": "2025-01-05 02:34:24 +0000"
     },
     "done": true
   },
@@ -20893,9 +20923,27 @@
     },
     "done": true
   },
+  "oxidized:recipes/vertical_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_10_shieldbearers": {
     "criteria": {
       "shieldbearers_killed": "2025-01-05 01:42:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
     },
     "done": true
   },
@@ -20908,6 +20956,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-01-05 02:32:31 +0000"
     },
     "done": true
   },
@@ -20935,9 +20989,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/gladius": {
+    "criteria": {
+      "arcane": "2025-01-05 02:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
     },
     "done": true
   },
@@ -20959,6 +21031,12 @@
     },
     "done": true
   },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-01-05 01:18:04 +0000"
@@ -20968,6 +21046,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 02:31:36 +0000"
     },
     "done": true
   },
