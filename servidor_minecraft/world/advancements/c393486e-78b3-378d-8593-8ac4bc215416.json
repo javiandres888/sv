@@ -621,6 +621,7 @@
       "minecraft:stony_shore": "2025-01-03 22:51:55 +0000",
       "minecraft:snowy_taiga": "2025-01-04 00:28:37 +0000",
       "minecraft:dripstone_caves": "2025-01-04 08:03:27 +0000",
+      "minecraft:grove": "2025-01-05 03:00:45 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:47:19 +0000",
       "minecraft:forest": "2025-01-03 00:59:19 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:47:12 +0000",
@@ -3527,6 +3528,7 @@
       "minecraft:pillager": "2025-01-04 00:35:42 +0000",
       "minecraft:skeleton": "2025-01-03 02:46:25 +0000",
       "minecraft:hoglin": "2025-01-04 08:32:42 +0000",
+      "minecraft:guardian": "2025-01-05 02:56:18 +0000",
       "minecraft:vindicator": "2025-01-04 00:36:17 +0000",
       "minecraft:magma_cube": "2025-01-04 05:50:59 +0000",
       "minecraft:spider": "2025-01-03 01:25:09 +0000",
@@ -20834,6 +20836,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_diamond_ores": "2025-01-05 02:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
@@ -20879,6 +20887,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-01-05 02:53:40 +0000"
     },
     "done": true
   },
@@ -21131,6 +21145,18 @@
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta_thick_pot": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-01-05 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_water": {
+    "criteria": {
+      "has_tag_c_diamond_ores": "2025-01-05 02:53:40 +0000"
     },
     "done": true
   },
