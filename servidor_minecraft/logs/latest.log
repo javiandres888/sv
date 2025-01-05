@@ -140,3 +140,8 @@
 [01:46:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-92, y=72, z=-985}
 [01:46:50] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=164, y=173, z=-1113} but found not block entity block Block{minecraft:air} at location
 [01:46:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=164, y=173, z=-1113}
+[01:50:12] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-252, y=178, z=-1081} but found not block entity block Block{minecraft:air} at location
+[01:50:12] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-252, y=178, z=-1081}
+[01:56:18] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-140, y=71, z=-729} but found not block entity block Block{minecraft:air} at location
+[01:56:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-140, y=71, z=-729}
+[01:58:02] [Server thread/INFO]: Dresan has made the advancement [Eyes Open]
