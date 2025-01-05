@@ -610,6 +610,7 @@
       "minecraft:deep_ocean": "2025-01-03 22:46:11 +0000",
       "minecraft:frozen_river": "2025-01-03 23:35:43 +0000",
       "minecraft:cherry_grove": "2025-01-04 22:06:55 +0000",
+      "minecraft:sunflower_plains": "2025-01-05 02:18:43 +0000",
       "minecraft:birch_forest": "2025-01-04 08:23:26 +0000",
       "minecraft:savanna_plateau": "2025-01-04 07:28:55 +0000",
       "minecraft:beach": "2025-01-03 00:59:37 +0000",
@@ -632,6 +633,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:48:46 +0000",
       "minecraft:snowy_beach": "2025-01-04 00:28:12 +0000",
       "minecraft:windswept_savanna": "2025-01-05 00:55:18 +0000",
+      "minecraft:flower_forest": "2025-01-05 02:17:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 08:25:27 +0000",
       "minecraft:deep_dark": "2025-01-04 08:03:42 +0000",
       "minecraft:savanna": "2025-01-04 07:28:35 +0000",
@@ -20813,6 +20815,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-01-05 02:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
@@ -20945,6 +20953,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-01-05 02:25:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-01-05 01:18:04 +0000"
@@ -20978,6 +20992,12 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-05 02:20:10 +0000"
     },
     "done": true
   },
