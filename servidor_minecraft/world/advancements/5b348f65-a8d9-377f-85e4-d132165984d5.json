@@ -694,6 +694,7 @@
       "minecraft:slime": "2025-01-03 02:32:47 +0000",
       "minecraft:phantom": "2025-01-04 02:39:56 +0000",
       "minecraft:witch": "2025-01-04 03:38:54 +0000",
+      "minecraft:wither_skeleton": "2025-01-05 06:35:11 +0000",
       "minecraft:husk": "2025-01-03 23:02:52 +0000",
       "minecraft:stray": "2025-01-04 01:09:44 +0000",
       "minecraft:silverfish": "2025-01-04 04:29:59 +0000",
@@ -18126,6 +18127,12 @@
     },
     "done": false
   },
+  "betternether:recipes/building_blocks/wart_slab": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
@@ -18265,6 +18272,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_stairs": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/lamps/crimson_shroomlamp": {
     "criteria": {
       "has_item": "2025-01-05 06:12:46 +0000"
@@ -18316,6 +18329,18 @@
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_nether_brick_tile_stairs": {
+    "criteria": {
+      "has_nether_brick_tile_small": "2025-01-05 06:41:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_barrel": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
     },
     "done": true
   },
@@ -18571,6 +18596,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_roof": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2025-01-05 06:10:42 +0000"
@@ -18625,6 +18656,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_bark": {
+    "criteria": {
+      "has_wart_log": "2025-01-05 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-05 06:36:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 06:23:14 +0000"
@@ -18649,6 +18692,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/wart_crafting_table": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
@@ -18661,6 +18710,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_nether_brick_tile_slab": {
+    "criteria": {
+      "has_nether_brick_tile_small": "2025-01-05 06:41:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-01-05 06:19:21 +0000"
@@ -18670,6 +18725,12 @@
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2025-01-05 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_button": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
     },
     "done": true
   },
@@ -18727,6 +18788,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/wart_boat": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-01-05 06:17:38 +0000"
@@ -18739,9 +18806,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-01-05 06:36:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/electrum_plate": {
     "criteria": {
       "has_tag_c_electrum_ingots": "2025-01-05 06:18:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-01-05 06:36:17 +0000"
     },
     "done": true
   },
@@ -18811,6 +18890,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_small": "2025-01-05 06:41:01 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-01-05 06:10:42 +0000"
@@ -18847,6 +18932,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
@@ -18856,6 +18947,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wart_wall": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
     },
     "done": true
   },
@@ -18937,6 +19034,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_small": "2025-01-05 06:41:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-01-05 06:19:22 +0000"
@@ -19015,6 +19118,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/betternether/sign_post_wart": {
+    "criteria": {
+      "has_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-01-05 06:10:42 +0000"
@@ -19051,6 +19160,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/wart_plate": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/nether_brick_witch_altar": {
     "criteria": {
       "has_item": "2025-01-05 06:16:15 +0000"
@@ -19072,6 +19187,12 @@
   "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
       "has_item": "2025-01-05 06:10:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_trapdoor": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
     },
     "done": true
   },
@@ -19105,6 +19226,12 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_wart": "2025-01-05 06:35:41 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-01-05 06:16:15 +0000"
@@ -19132,6 +19259,12 @@
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-01-05 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_chest": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
     },
     "done": true
   },
@@ -19174,6 +19307,12 @@
   "soulsweapons:recipes/combat/dragonslayer_swordspear": {
     "criteria": {
       "has_item": "2025-01-05 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_door": {
+    "criteria": {
+      "has_wart_planks": "2025-01-05 06:35:43 +0000"
     },
     "done": true
   },
