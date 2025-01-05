@@ -672,6 +672,7 @@
       "sparse_redwoods": "2025-01-04 07:33:33 +0000",
       "deciduous_forest": "2025-01-04 03:28:04 +0000",
       "boreal_forest": "2025-01-03 22:47:32 +0000",
+      "glistering_meadow": "2025-01-05 06:24:53 +0000",
       "towering_cliffs": "2025-01-05 00:33:52 +0000",
       "infernal_holt": "2025-01-05 06:05:09 +0000",
       "bamboo_forest": "2025-01-04 03:24:31 +0000",
@@ -16348,6 +16349,7 @@
     "criteria": {
       "betternether:bone_reef": "2025-01-04 05:09:03 +0000",
       "betternether:gravel_desert": "2025-01-04 05:13:42 +0000",
+      "betternether:flooded_deltas": "2025-01-05 06:25:32 +0000",
       "betternether:old_swampland": "2025-01-05 06:15:43 +0000",
       "betternether:nether_swampland": "2025-01-04 05:49:46 +0000",
       "betternether:nether_jungle": "2025-01-05 06:06:05 +0000",
@@ -16683,7 +16685,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "infernal_holt": "2025-01-05 06:05:09 +0000",
-      "redstone_abyss": "2025-01-04 05:10:53 +0000"
+      "redstone_abyss": "2025-01-04 05:10:53 +0000",
+      "glistering_meadow": "2025-01-05 06:24:53 +0000"
     },
     "done": false
   },
@@ -17601,7 +17604,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-01-04 05:50:49 +0000"
+      "got_nether_reed": "2025-01-04 05:50:49 +0000",
+      "got_stalagnate": "2025-01-05 06:23:40 +0000"
     },
     "done": false
   },
@@ -21419,6 +21423,30 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-01-05 06:26:40 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/transportation/stalagnate_boat": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 06:25:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_button": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
@@ -21437,6 +21465,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/stalagnate_roof_stairs": {
+    "criteria": {
+      "has_stalagnate_roof": "2025-01-05 06:23:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_stairs": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
     "criteria": {
       "has_electrum_ingot": "2025-01-05 06:18:59 +0000"
@@ -21449,9 +21489,21 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/stalagnate_door": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
     },
     "done": true
   },
@@ -21485,6 +21537,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/stalagnate_trapdoor": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard_clear": {
     "criteria": {
       "has_item": "2025-01-05 06:03:30 +0000"
@@ -21497,15 +21555,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2025-01-05 06:13:40 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/stalagnate_chest": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_barrel": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-01-05 06:25:59 +0000"
     },
     "done": true
   },
@@ -21569,9 +21657,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/stalagnate_slab": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 06:23:40 +0000"
     },
     "done": true
   },
@@ -21611,9 +21717,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/stalagnate_crafting_table": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_plate": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
     },
     "done": true
   },
@@ -21635,6 +21753,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/stalagnate_wall": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_stalagnate": {
+    "criteria": {
+      "has_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
   "simplyswords:longsword_plague": {
     "criteria": {
       "requirement": "2025-01-05 06:17:02 +0000"
@@ -21644,6 +21774,24 @@
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2025-01-05 06:16:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_stripped_bark": {
+    "criteria": {
+      "has_stalagnate_stripped_log": "2025-01-05 06:23:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_roof": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-01-05 06:23:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2025-01-05 06:23:59 +0000"
     },
     "done": true
   },
@@ -21680,6 +21828,30 @@
   "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
       "has_item": "2025-01-05 06:16:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_roof_slab": {
+    "criteria": {
+      "has_stalagnate_roof": "2025-01-05 06:23:45 +0000"
     },
     "done": true
   },
