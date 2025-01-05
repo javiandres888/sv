@@ -17381,27 +17381,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-01-04 07:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-01-04 07:30:45 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_mechanical_nest": {
-    "criteria": {
-      "location0": "2025-01-04 07:30:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-01-04 07:30:45 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_horde": {
-    "criteria": {
-      "kill_horde": "2025-01-04 07:07:48 +0000"
     },
     "done": true
   },
@@ -17420,6 +17414,18 @@
   "twigs:recipes/copper_pillar/waxed_oxidized_copper_pillar_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-01-04 07:30:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-01-04 07:30:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_magnolia_sapling_from_pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_shrub": "2025-01-05 00:34:02 +0000"
     },
     "done": true
   },

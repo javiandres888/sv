@@ -12,3 +12,74 @@
 [00:23:07] [Server thread/INFO]: remove player wand
 [00:23:07] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
 [00:23:07] [Server thread/WARN]: handleDisconnection() called twice
+[00:31:20] [Server thread/INFO]: [Handshake] Sending channel query
+[00:31:21] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[00:31:21] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[00:31:21] [Server thread/INFO]: kingsKAP[/[0:0:0:0:0:0:0:1%0]:53456] logged in with entity id 51388 at (-1724.6758216309238, 94.0, 679.4173650361089)
+[00:31:21] [Server thread/INFO]: Sending server config values to client
+[00:31:21] [Server thread/INFO]: Syncing config to kingsKAP (5b348f65-a8d9-377f-85e4-d132165984d5)
+[00:31:21] [Server thread/INFO]: Loading config from file...
+[00:31:21] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:31:21] [Server thread/INFO]: kingsKAP joined the game
+[00:31:21] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[00:31:21] [Server thread/INFO]: PLAYER_JOIN
+[00:31:21] [Server thread/INFO]: add_player wand
+[00:31:21] [Server thread/INFO]: config sent
+[00:31:24] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:31:26] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: kingsKAP -> Global
+[00:31:26] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player kingsKAP. Claiming: GRAVE / Robbing: INVENTORY
+[00:31:38] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[00:32:55] [Server thread/INFO]: [Handshake] Sending channel query
+[00:32:55] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:32:55] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:32:55] [Server thread/INFO]: Dresan[/[0:0:0:0:0:0:0:1%0]:42862] logged in with entity id 51931 at (-867.6999999880791, 67.0, -638.6999999880791)
+[00:32:55] [Server thread/INFO]: Sending server config values to client
+[00:32:55] [Server thread/INFO]: Syncing config to Dresan (c393486e-78b3-378d-8593-8ac4bc215416)
+[00:32:55] [Server thread/INFO]: Loading config from file...
+[00:32:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:32:56] [Server thread/INFO]: Dresan joined the game
+[00:32:56] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
+[00:32:56] [Server thread/INFO]: PLAYER_JOIN
+[00:32:56] [Server thread/INFO]: add_player wand
+[00:32:56] [Server thread/INFO]: config sent
+[00:32:57] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:32:57] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Dresan -> Global
+[00:32:57] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Dresan. Claiming: GRAVE / Robbing: INVENTORY
+[00:32:58] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[00:33:03] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa]] from pos class_2338{x=-795, y=74, z=-811}
+[00:33:03] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-794, y=71, z=-811} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[00:33:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location class_2338{x=-794, y=71, z=-811}
+[00:33:03] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-794, y=71, z=-810} but found not block entity block Block{minecraft:stone} at location
+[00:33:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location class_2338{x=-794, y=71, z=-810}
+[00:33:03] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-794, y=72, z=-810} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[00:33:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location class_2338{x=-794, y=72, z=-810}
+[00:33:04] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-795, y=74, z=-811} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[00:33:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-795, y=74, z=-811}
+[00:37:02] [Worker-Main-85/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[00:37:10] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos class_2338{x=-475, y=73, z=-779}
+[00:37:12] [Worker-Main-84/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[00:37:14] [Worker-Main-84/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[00:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[00:37:23] [Worker-Main-156/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-341545622,-1614262919,-1130123407,1115280318],type:"minecraft:entity",y_offset:0.36f}}]
+[00:37:23] [Worker-Main-156/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;793619195,-1815263949,-1530989623,-1350116684],type:"minecraft:entity",y_offset:0.36f}}]
+[00:37:34] [Server thread/INFO]: [Handshake] Sending channel query
+[00:37:35] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:37:35] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:37:35] [Server thread/INFO]: kingsKAP lost connection: You logged in from another location
+[00:37:35] [Server thread/INFO]: kingsKAP left the game
+[00:37:35] [Server thread/INFO]: remove player wand
+[00:37:35] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[00:37:35] [Server thread/INFO]: kingsKAP[/[0:0:0:0:0:0:0:1%0]:41976] logged in with entity id 57368 at (-952.6990328680845, 71.0, -6.866858914025216)
+[00:37:35] [Server thread/INFO]: Sending server config values to client
+[00:37:35] [Server thread/INFO]: Syncing config to kingsKAP (5b348f65-a8d9-377f-85e4-d132165984d5)
+[00:37:35] [Server thread/INFO]: Loading config from file...
+[00:37:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:37:35] [Server thread/INFO]: kingsKAP joined the game
+[00:37:35] [Server thread/INFO]: Updating all forceload tickets for 5b348f65-a8d9-377f-85e4-d132165984d5
+[00:37:35] [Server thread/INFO]: PLAYER_JOIN
+[00:37:35] [Server thread/INFO]: add_player wand
+[00:37:35] [Server thread/INFO]: config sent
+[00:37:38] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:37:38] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: kingsKAP -> Global
+[00:37:38] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player kingsKAP. Claiming: GRAVE / Robbing: INVENTORY
+[00:37:50] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
