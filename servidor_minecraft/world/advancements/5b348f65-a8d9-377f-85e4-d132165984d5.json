@@ -18134,6 +18134,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 06:27:22 +0000"
@@ -18253,6 +18259,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
     },
     "done": true
   },
@@ -18511,6 +18523,12 @@
   "prominent:level_10": {
     "criteria": {
       "requirement": "2025-01-05 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
     },
     "done": true
   },
@@ -18808,6 +18826,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-01-05 06:17:38 +0000"
@@ -18883,6 +18907,12 @@
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-01-05 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-01-05 06:58:07 +0000"
     },
     "done": true
   },
@@ -19282,6 +19312,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 07:00:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_chest": {
     "criteria": {
       "has_wart_planks": "2025-01-05 06:35:43 +0000"
@@ -19333,6 +19375,12 @@
   "betternether:recipes/redstone/wart_door": {
     "criteria": {
       "has_wart_planks": "2025-01-05 06:35:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
     },
     "done": true
   },
@@ -19390,6 +19438,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-05 06:31:14 +0000"
@@ -19399,6 +19453,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-01-05 06:19:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2025-01-05 07:00:38 +0000"
     },
     "done": true
   },

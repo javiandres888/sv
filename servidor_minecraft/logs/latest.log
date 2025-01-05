@@ -2641,3 +2641,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:31:14] [Server thread/INFO]: kingsKAP has made the advancement [Spooky Scary Skeleton]
 [06:40:39] [Server thread/INFO]: Progress has been changed!
 [06:47:07] [Server thread/INFO]: Dresan has made the advancement [Fire Hazard]
+[06:57:17] [Server thread/INFO]: Dresan has made the advancement [Spooky Scary Skeleton]
+[06:57:32] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[06:57:51] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[06:58:07] [Server thread/INFO]: kingsKAP has made the advancement [Keeper of Souls]
+[06:58:30] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[06:58:34] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[06:59:47] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor

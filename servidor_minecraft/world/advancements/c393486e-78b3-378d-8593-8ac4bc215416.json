@@ -21435,6 +21435,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-01-05 06:49:11 +0000"
@@ -21453,6 +21465,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
@@ -21462,6 +21486,12 @@
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-05 07:01:41 +0000"
     },
     "done": true
   },
@@ -21489,6 +21519,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-05 06:57:17 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
@@ -21501,6 +21537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-05 06:57:17 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2025-01-05 06:13:40 +0000"
@@ -21510,6 +21552,12 @@
   "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
       "has_wall_mushroom_brown": "2025-01-05 06:44:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
     },
     "done": true
   },
@@ -21531,9 +21579,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
     },
     "done": true
   },
@@ -21573,9 +21633,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
     },
     "done": true
   },
@@ -21594,6 +21666,18 @@
   "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-05 06:57:17 +0000"
     },
     "done": true
   },
@@ -21621,6 +21705,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/electrum_plate": {
     "criteria": {
       "has_tag_c_electrum_ingots": "2025-01-05 06:18:59 +0000"
@@ -21633,6 +21723,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_buttons": {
+    "criteria": {
+      "has_tag_minecraft_wooden_buttons": "2025-01-05 06:55:27 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:lord_soul": {
     "criteria": {
       "soul": "2025-01-05 06:13:40 +0000"
@@ -21642,6 +21738,12 @@
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-01-05 06:16:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
     },
     "done": true
   },
@@ -21717,9 +21819,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-05 07:01:41 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
     },
     "done": true
   },
@@ -21795,6 +21909,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
+    },
+    "done": true
+  },
   "simplyswords:longsword_plague": {
     "criteria": {
       "requirement": "2025-01-05 06:17:02 +0000"
@@ -21810,6 +21930,12 @@
   "betternether:recipes/building_blocks/stalagnate_stripped_bark": {
     "criteria": {
       "has_stalagnate_stripped_log": "2025-01-05 06:23:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-01-05 06:57:17 +0000"
     },
     "done": true
   },
@@ -21861,6 +21987,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-05 06:57:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
@@ -21876,6 +22008,12 @@
   "betternether:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 06:56:54 +0000"
     },
     "done": true
   },
