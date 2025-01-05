@@ -3496,6 +3496,7 @@
       "cookie": "2025-01-05 00:39:12 +0000",
       "glow_berries": "2025-01-04 08:28:28 +0000",
       "melon_slice": "2025-01-05 02:04:06 +0000",
+      "golden_carrot": "2025-01-05 02:42:54 +0000",
       "cooked_chicken": "2025-01-03 01:44:31 +0000",
       "mushroom_stew": "2025-01-04 03:33:06 +0000",
       "cooked_salmon": "2025-01-04 07:11:42 +0000",
@@ -20839,6 +20840,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-05 02:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
@@ -20860,6 +20867,12 @@
   "handcrafted:recipes/misc/terracotta_wide_pot": {
     "criteria": {
       "has_terracotta_wide_pot": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/blue_orchid_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-01-05 02:44:51 +0000"
     },
     "done": true
   },
@@ -20896,6 +20909,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-05 02:44:51 +0000"
     },
     "done": true
   },
@@ -20953,6 +20972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-05 02:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
@@ -20971,6 +20996,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/blue_orchid": {
+    "criteria": {
+      "has_flower": "2025-01-05 02:44:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_plate": {
     "criteria": {
       "has_terracotta_plate": "2025-01-05 01:18:04 +0000"
@@ -20986,6 +21017,12 @@
   "minecells:unlock/kill_15_undead_archers": {
     "criteria": {
       "undead_archers_killed": "2025-01-05 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-05 02:41:55 +0000"
     },
     "done": true
   },
@@ -21058,6 +21095,12 @@
   "simplyswords:watching_warglaive": {
     "criteria": {
       "requirement": "2025-01-05 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-01-05 02:41:55 +0000"
     },
     "done": true
   },
