@@ -105,3 +105,24 @@
 [01:03:56] [Server thread/INFO]: Dresan left the game
 [01:03:56] [Server thread/INFO]: remove player wand
 [01:03:56] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
+[01:08:58] [Server thread/INFO]: [Handshake] Sending channel query
+[01:08:59] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:08:59] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:08:59] [Server thread/INFO]: Dresan[/[0:0:0:0:0:0:0:1%0]:33486] logged in with entity id 83015 at (63.30000001192093, 143.0, -1077.1244973683656)
+[01:08:59] [Server thread/INFO]: Sending server config values to client
+[01:08:59] [Server thread/INFO]: Syncing config to Dresan (c393486e-78b3-378d-8593-8ac4bc215416)
+[01:08:59] [Server thread/INFO]: Loading config from file...
+[01:08:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:08:59] [Server thread/INFO]: Dresan joined the game
+[01:08:59] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
+[01:08:59] [Server thread/INFO]: PLAYER_JOIN
+[01:08:59] [Server thread/INFO]: add_player wand
+[01:08:59] [Server thread/INFO]: config sent
+[01:09:01] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[01:09:01] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Dresan -> Global
+[01:09:01] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Dresan. Claiming: GRAVE / Robbing: INVENTORY
+[01:09:02] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[01:12:48] [Server thread/INFO]: Villager class_1646['Donn'/83049, l='ServerLevel[world]', x=82.93, y=70.00, z=-1089.17] died, message: 'Donn hit the ground too hard'
+[01:12:48] [Server thread/INFO]: Named entity class_1646['Donn'/83049, l='ServerLevel[world]', x=82.93, y=70.00, z=-1089.17] died: Donn fell from a high place
+[01:16:35] [Server thread/INFO]: Villager class_1646['Ahmed'/83045, l='ServerLevel[world]', x=32.76, y=80.00, z=-1114.64] died, message: 'Ahmed hit the ground too hard'
+[01:16:35] [Server thread/INFO]: Named entity class_1646['Ahmed'/83045, l='ServerLevel[world]', x=32.76, y=80.00, z=-1114.64] died: Ahmed fell from a high place

@@ -20673,15 +20673,51 @@
     },
     "done": true
   },
-  "fwaystones:recipes/void_totem": {
+  "techreborn:recipes/centrifuge/cookie": {
     "criteria": {
-      "has_totem_of_undying": "2025-01-05 00:48:24 +0000"
+      "has_cookie": "2025-01-05 00:38:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-01-05 00:44:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-01-05 00:44:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-05 00:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-05 00:44:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_copper_pillar": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2025-01-05 00:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-01-05 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-05 00:48:24 +0000"
     },
     "done": true
   },
@@ -20697,21 +20733,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_tile_large": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-01-05 00:44:51 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
       "has_totem_of_undying": "2025-01-05 00:48:24 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/copper_pillar/waxed_copper_pillar": {
-    "criteria": {
-      "has_waxed_cut_copper_slab": "2025-01-05 00:44:52 +0000"
     },
     "done": true
   },
@@ -20727,75 +20751,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/cookie": {
-    "criteria": {
-      "has_cookie": "2025-01-05 00:38:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-01-05 00:48:00 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
-    "criteria": {
-      "has_log": "2025-01-05 00:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-01-05 00:44:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-01-05 01:01:05 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
     "criteria": {
       "has_upgrade_item": "2025-01-05 00:48:24 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/coal_plate_from_block": {
-    "criteria": {
-      "has_coal_block": "2025-01-05 00:44:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-05 01:01:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
-    "criteria": {
-      "has_dark_oak_sapling": "2025-01-05 00:59:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
-    "criteria": {
-      "has_log": "2025-01-05 00:59:28 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/unique_armors/gilded_glory_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-01-05 00:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-05 00:59:28 +0000"
     },
     "done": true
   },
@@ -20808,6 +20772,42 @@
   "mcda:recipes/unique_armors/gilded_glory_helmet": {
     "criteria": {
       "has_upgrade_item": "2025-01-05 00:48:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-05 00:59:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-05 00:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 00:59:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-01-05 00:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-05 01:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-05 01:01:05 +0000"
     },
     "done": true
   },
