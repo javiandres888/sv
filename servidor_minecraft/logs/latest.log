@@ -247,3 +247,5 @@
 [04:04:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [04:13:04] [Server thread/INFO]: kingsKAP was blown up by Night Lich
 [04:13:06] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[04:22:59] [Server thread/WARN]: kingsKAP moved wrongly!
+[04:23:00] [Server thread/WARN]: kingsKAP moved wrongly!
