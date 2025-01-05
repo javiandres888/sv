@@ -83,3 +83,25 @@
 [00:37:38] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: kingsKAP -> Global
 [00:37:38] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player kingsKAP. Claiming: GRAVE / Robbing: INVENTORY
 [00:37:50] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of kingsKAP accepted server config.
+[00:39:51] [Worker-Main-155/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[00:52:18] [Server thread/INFO]: Dresan was shot by Mutant Skeleton
+[00:52:20] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[00:52:29] [Worker-Main-156/WARN]: Empty or non-existent pool: ctov:pillager_outpost/mountain/towers
+[00:57:30] [Server thread/INFO]: Dresan claimed a grave belonging to Dresan at 11, 73, -853, minecraft:overworld
+[00:58:10] [Server thread/INFO]: Villager class_1646['Wilton'/71161, l='ServerLevel[world]', x=-710.24, y=94.00, z=-1247.57] died, message: 'Wilton was burnt to a crisp whilst fighting kingsKAP'
+[00:58:10] [Server thread/INFO]: Named entity class_1646['Wilton'/71161, l='ServerLevel[world]', x=-710.24, y=94.00, z=-1247.57] died: Wilton was burnt to a crisp whilst fighting kingsKAP
+[00:58:41] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa]] from pos class_2338{x=123, y=70, z=-1195}
+[00:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[00:59:08] [Server thread/INFO]: Villager class_1646['Kerry'/77346, l='ServerLevel[world]', x=32.61, y=80.00, z=-1111.95] died, message: 'Kerry hit the ground too hard'
+[00:59:08] [Server thread/INFO]: Named entity class_1646['Kerry'/77346, l='ServerLevel[world]', x=32.61, y=80.00, z=-1111.95] died: Kerry fell from a high place
+[00:59:10] [Server thread/INFO]: Villager class_1646['Suzanne'/77345, l='ServerLevel[world]', x=31.37, y=75.00, z=-1119.67] died, message: 'Suzanne hit the ground too hard'
+[00:59:10] [Server thread/INFO]: Named entity class_1646['Suzanne'/77345, l='ServerLevel[world]', x=31.37, y=75.00, z=-1119.67] died: Suzanne fell from a high place
+[00:59:11] [Server thread/INFO]: Villager class_1646['Sona'/76766, l='ServerLevel[world]', x=32.53, y=80.00, z=-1114.19] died, message: 'Sona hit the ground too hard'
+[00:59:11] [Server thread/INFO]: Named entity class_1646['Sona'/76766, l='ServerLevel[world]', x=32.53, y=80.00, z=-1114.19] died: Sona fell from a high place
+[01:00:40] [Server thread/INFO]: Villager class_1646['Crista'/76157, l='ServerLevel[world]', x=88.85, y=74.00, z=-1063.63] died, message: 'Crista hit the ground too hard'
+[01:00:40] [Server thread/INFO]: Named entity class_1646['Crista'/76157, l='ServerLevel[world]', x=88.85, y=74.00, z=-1063.63] died: Crista fell from a high place
+[01:01:05] [Server thread/INFO]: Dresan has made the advancement [Who is Cutting Onions?]
+[01:03:56] [Server thread/INFO]: Dresan lost connection: Timed out
+[01:03:56] [Server thread/INFO]: Dresan left the game
+[01:03:56] [Server thread/INFO]: remove player wand
+[01:03:56] [Server thread/INFO]: Updating all forceload tickets for c393486e-78b3-378d-8593-8ac4bc215416
