@@ -133,3 +133,10 @@
 [01:27:35] [Worker-Main-85/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [01:28:01] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
 [01:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:46:29] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Dresan accepted server config.
+[01:46:35] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=39, y=65, z=-949} but found not block entity block Block{minecraft:air} at location
+[01:46:35] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=39, y=65, z=-949}
+[01:46:40] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-92, y=72, z=-985} but found not block entity block Block{minecraft:air} at location
+[01:46:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-92, y=72, z=-985}
+[01:46:50] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=164, y=173, z=-1113} but found not block entity block Block{minecraft:air} at location
+[01:46:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=164, y=173, z=-1113}

@@ -20884,6 +20884,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2025-01-05 01:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
