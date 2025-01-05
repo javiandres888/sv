@@ -673,6 +673,7 @@
       "deciduous_forest": "2025-01-04 03:28:04 +0000",
       "boreal_forest": "2025-01-03 22:47:32 +0000",
       "towering_cliffs": "2025-01-05 00:33:52 +0000",
+      "infernal_holt": "2025-01-05 06:05:09 +0000",
       "bamboo_forest": "2025-01-04 03:24:31 +0000",
       "temperate_grove": "2025-01-03 01:16:59 +0000",
       "cold_river": "2025-01-03 23:20:11 +0000",
@@ -16347,6 +16348,8 @@
       "betternether:bone_reef": "2025-01-04 05:09:03 +0000",
       "betternether:gravel_desert": "2025-01-04 05:13:42 +0000",
       "betternether:nether_swampland": "2025-01-04 05:49:46 +0000",
+      "betternether:nether_jungle": "2025-01-05 06:06:05 +0000",
+      "betternether:nether_swampland_terraces": "2025-01-05 06:07:34 +0000",
       "betternether:sulfuric_bone_reef": "2025-01-04 05:06:34 +0000"
     },
     "done": false
@@ -16677,6 +16680,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "infernal_holt": "2025-01-05 06:05:09 +0000",
       "redstone_abyss": "2025-01-04 05:10:53 +0000"
     },
     "done": false
@@ -21410,6 +21414,24 @@
   "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
       "has_item": "2025-01-05 04:46:33 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-01-05 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-01-05 06:03:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "soulsweapons:accursed_lord_boss": "2025-01-05 06:10:39 +0000"
     },
     "done": true
   },
