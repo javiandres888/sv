@@ -3493,6 +3493,7 @@
       "rotten_flesh": "2025-01-03 01:30:44 +0000",
       "cookie": "2025-01-05 00:39:12 +0000",
       "glow_berries": "2025-01-04 08:28:28 +0000",
+      "melon_slice": "2025-01-05 02:04:06 +0000",
       "cooked_chicken": "2025-01-03 01:44:31 +0000",
       "mushroom_stew": "2025-01-04 03:33:06 +0000",
       "cooked_salmon": "2025-01-04 07:11:42 +0000",
@@ -20947,6 +20948,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:watching_warglaive": {
+    "criteria": {
+      "requirement": "2025-01-05 01:58:02 +0000"
     },
     "done": true
   },
