@@ -21435,6 +21435,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-05 06:49:11 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2025-01-05 06:25:59 +0000"
@@ -21501,6 +21507,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-01-05 06:44:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2025-01-05 06:29:55 +0000"
@@ -21522,6 +21534,12 @@
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-01-05 06:47:07 +0000"
     },
     "done": true
   },
@@ -21705,6 +21723,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-05 06:49:11 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2025-01-05 06:13:40 +0000"
@@ -21726,6 +21750,12 @@
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-01-05 06:13:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-01-05 06:49:11 +0000"
     },
     "done": true
   },

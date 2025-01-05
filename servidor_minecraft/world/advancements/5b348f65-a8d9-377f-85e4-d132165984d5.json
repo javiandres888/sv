@@ -3231,6 +3231,7 @@
       "mauve_hills": "2025-01-04 04:48:24 +0000",
       "silver_birch_forest": "2025-01-03 23:08:26 +0000",
       "shrubland": "2025-01-03 01:29:24 +0000",
+      "redstone_abyss": "2025-01-05 06:48:14 +0000",
       "fen": "2025-01-04 03:44:05 +0000",
       "pine_taiga": "2025-01-03 22:52:27 +0000",
       "bayou": "2025-01-04 03:37:26 +0000",
@@ -18178,6 +18179,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "infernal_holt": "2025-01-05 06:05:11 +0000",
+      "redstone_abyss": "2025-01-05 06:48:14 +0000",
       "glistering_meadow": "2025-01-05 06:24:55 +0000"
     },
     "done": false
@@ -18476,6 +18478,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-01-05 06:46:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_leggings": {
     "criteria": {
       "has_nether_wart": "2025-01-05 06:19:21 +0000"
@@ -18758,6 +18766,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-05 06:48:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
@@ -18965,6 +18979,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 06:16:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-05 06:48:27 +0000"
     },
     "done": true
   },
