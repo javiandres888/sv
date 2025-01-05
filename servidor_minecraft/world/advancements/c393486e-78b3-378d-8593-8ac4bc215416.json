@@ -3545,6 +3545,7 @@
       "minecraft:enderman": "2025-01-03 23:05:54 +0000",
       "minecraft:stray": "2025-01-04 01:28:30 +0000",
       "minecraft:zombie": "2025-01-03 01:23:38 +0000",
+      "minecraft:drowned": "2025-01-05 03:19:06 +0000",
       "minecraft:zombie_villager": "2025-01-03 02:36:41 +0000"
     },
     "done": false
@@ -20818,6 +20819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-05 03:11:03 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/large_graveyard": {
     "criteria": {
       "large_graveyard": "2025-01-05 02:23:10 +0000"
@@ -20944,6 +20951,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-05 03:11:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite_slab": "2025-01-05 02:34:24 +0000"
@@ -20953,6 +20966,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-01-05 03:17:57 +0000"
     },
     "done": true
   },
@@ -20971,6 +20990,30 @@
   "techreborn:recipes/compressor/copper_plate_from_block": {
     "criteria": {
       "has_copper_block": "2025-01-05 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-01-05 03:17:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-01-05 03:11:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-05 03:17:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-05 03:17:57 +0000"
     },
     "done": true
   },
@@ -21004,6 +21047,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2025-01-05 03:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-05 01:18:04 +0000"
@@ -21028,9 +21077,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-05 03:17:57 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_15_undead_archers": {
     "criteria": {
       "undead_archers_killed": "2025-01-05 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-05 03:17:57 +0000"
     },
     "done": true
   },
@@ -21076,6 +21137,12 @@
     },
     "done": true
   },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-01-05 03:17:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "has_cobblestone_slab": "2025-01-05 02:25:04 +0000"
@@ -21109,6 +21176,12 @@
   "simplyswords:watching_warglaive": {
     "criteria": {
       "requirement": "2025-01-05 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-05 03:17:57 +0000"
     },
     "done": true
   },
