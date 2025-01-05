@@ -20939,6 +20939,12 @@
     },
     "done": true
   },
+  "simplyswords:stars_edge": {
+    "criteria": {
+      "requirement": "2025-01-05 02:09:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-01-05 01:18:04 +0000"
